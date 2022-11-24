@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Password_input-group mb-2 pass-strength_244543</name>
+   <tag></tag>
+   <elementGuidId>1d4b9671-c3f1-4ee4-870b-ad629b685414</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.input-group.mb-2.pass-strength-visible</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='step-3']/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b93638a0-d0ba-495f-87ff-95c61cd81740</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-group mb-2 pass-strength-visible</value>
+      <webElementGuid>26fcca4e-e1ac-4719-a7e3-77f7469a89e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-3&quot;)/div[@class=&quot;form-group row has-success has-feedback&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;input-group mb-2 pass-strength-visible&quot;]</value>
+      <webElementGuid>3a89d2c5-8e8e-4436-b822-f35833a84c01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-3']/div[2]/div/div</value>
+      <webElementGuid>ac1e18a4-e3a9-4a47-a428-755f67ac169a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password :'])[1]/following::div[2]</value>
+      <webElementGuid>f0caecec-1b0c-49e4-a751-7299a44e4dd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username :'])[1]/following::div[8]</value>
+      <webElementGuid>2ead1d26-035f-43c3-a823-f9dcbce313c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Strong password'])[1]/preceding::div[5]</value>
+      <webElementGuid>72c9fd9c-1b56-4e6f-b961-f98887d18b92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm Password :'])[1]/preceding::div[7]</value>
+      <webElementGuid>ddb77ff6-fc67-4960-aaf4-9d7a3dabd545</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div</value>
+      <webElementGuid>aca90e88-f279-4b3d-a43b-211cd3fc04a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

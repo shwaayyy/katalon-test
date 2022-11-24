@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Strong password</name>
+   <tag></tag>
+   <elementGuidId>1178de2d-3f8e-4a81-be1c-7c83256f2fc6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.pass-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='step-3']/div[2]/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>16b51f8f-c2ad-466f-b916-98d2d68b2ea1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pass-text</value>
+      <webElementGuid>2ea6f5ee-f025-4f8b-b9ce-1c1c0080baf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Strong password</value>
+      <webElementGuid>0fa3d95d-5e78-4d8f-91c1-cd82bb7b5305</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-3&quot;)/div[@class=&quot;form-group row has-success has-feedback&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;pass-wrapper&quot;]/span[@class=&quot;pass-text&quot;]</value>
+      <webElementGuid>a028e3ad-5bad-4c77-b2cd-fd6a847b4280</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-3']/div[2]/div/div[2]/span</value>
+      <webElementGuid>89e48819-4d9e-440d-831c-77506ef6f502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password :'])[1]/following::span[1]</value>
+      <webElementGuid>42f7de25-c460-44e0-980a-511b2da3f9d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username :'])[1]/following::span[1]</value>
+      <webElementGuid>b79228b7-6786-45f1-aad2-4a09232a7ad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm Password :'])[1]/preceding::span[1]</value>
+      <webElementGuid>849b37dd-bca0-413c-8d73-a2c11c42df5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email :'])[1]/preceding::span[1]</value>
+      <webElementGuid>6b64491e-3e9b-4d1b-a82c-18f128e58ebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Strong password']/parent::*</value>
+      <webElementGuid>a294d24a-57e9-4a61-a482-fb510d7cafce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>67353d9f-5d3f-44de-9a2a-e4d646738b76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Strong password' or . = 'Strong password')]</value>
+      <webElementGuid>93dff43a-d6df-446f-8410-95657ce4501a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

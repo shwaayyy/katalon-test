@@ -21,19 +21,20 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://app.tandatanganku.com/login.html?next=DO8Xbov9uppmT8XxeCpSLA%3D%3D')
 
-WebUI.click(findTestObject('Object Repository/Page_Digisign/input_to continue to Digisign_uname'))
+WebUI.click(findTestObject('Object Repository/Page_Digisign/a_Create account'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Digisign/input_to continue to Digisign_uname'), 'wahyuhi')
+WebUI.setText(findTestObject('Object Repository/Page_Digisign Pendaftaran/input_NIK_idcard'), '3275025302090003')
 
-WebUI.click(findTestObject('Object Repository/Page_Digisign/button_Next'))
+WebUI.setText(findTestObject('Object Repository/Page_Digisign Pendaftaran/input_Nama_name'), 'sad')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Digisign/input_Wahyu Hidayat_592773'), 'zJMR4cZ8NEag1qGiTsvDpA==')
+WebUI.setText(findTestObject('Object Repository/Page_Digisign Pendaftaran/input_Tempat Lahir_lbrith'), 'asdasd')
 
-WebUI.click(findTestObject('Object Repository/Page_Digisign/button_Sign in'))
+WebUI.click(findTestObject('Object Repository/Page_Digisign Pendaftaran/button_Next'))
 
-WebUI.click(findTestObject('Object Repository/Page_Digisign/div_wahyudigi-id.id                        _98a823'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Digisign Pendaftaran/input_Password_password'), '+Uelg5SXjo4=')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Digisign/h4_Kotak Masuk Terakhir'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Digisign Pendaftaran/span_Password terlalu pendek, min 8 character'), 
+    0)
 
 WebUI.closeBrowser()
 

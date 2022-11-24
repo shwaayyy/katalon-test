@@ -21,15 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://app.tandatanganku.com/login.html?next=DO8Xbov9uppmT8XxeCpSLA%3D%3D')
 
-WebUI.setText(findTestObject('Object Repository/Page_Digisign/input_to continue to Digisign_uname'), 'wahyuhi')
+WebUI.click(findTestObject('Object Repository/Page_Digisign/a_Create account (1)'))
 
-WebUI.sendKeys(findTestObject('Object Repository/Page_Digisign/input_to continue to Digisign_uname'), Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('Page_Digisign Pendaftaran/input_NIK_idcard'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Digisign/input_Wahyu Hidayat_168098'), 'Ts4mSdYMH3AzYvmJyXfqrg==')
+WebUI.setText(findTestObject('Object Repository/Page_Digisign Pendaftaran/input_NIK_idcard'), 'akdasdasda')
 
-WebUI.click(findTestObject('Object Repository/Page_Digisign/button_Sign in'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Digisign/b_Password Salah'), 0)
+WebUI.verifyElementPresent(findTestObject('Page_Digisign Pendaftaran/div_Harus 16 Digit'), 0)
 
 WebUI.closeBrowser()
 

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Password terlalu pendek, min 8 character</name>
+   <tag></tag>
+   <elementGuidId>e7590ea3-32cb-442d-9ae2-07117a8847d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.pass-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='step-3']/div[2]/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f2dfa806-3ef9-43ee-805b-4069a25502be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pass-text</value>
+      <webElementGuid>071a5ed9-42ab-4b4a-a6ea-7371a8e39fbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password terlalu pendek, min 8 character</value>
+      <webElementGuid>2c94fd46-510e-4d27-b906-7970be11b5e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-3&quot;)/div[@class=&quot;form-group row has-error has-feedback&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;pass-wrapper&quot;]/span[@class=&quot;pass-text&quot;]</value>
+      <webElementGuid>a0768440-5a85-49c3-bc3b-149f2bfbe594</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-3']/div[2]/div/div[2]/span</value>
+      <webElementGuid>97d42c87-9a49-46e2-bec9-f82443209f6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password :'])[1]/following::span[1]</value>
+      <webElementGuid>86f2902b-fd95-40b6-9fa1-49ac9ae03318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username :'])[1]/following::span[1]</value>
+      <webElementGuid>ad68e8d0-640b-43ed-a540-1223588bdaed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm Password :'])[1]/preceding::span[1]</value>
+      <webElementGuid>ae53e288-ec59-4e79-9fc3-1898d48255a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email :'])[1]/preceding::span[1]</value>
+      <webElementGuid>9d63a1a5-aa8c-4862-aa82-b8dbacf48059</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Password terlalu pendek, min 8 character']/parent::*</value>
+      <webElementGuid>cf80321f-3062-403e-acc4-a4a559a9815a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>9baa2167-3d14-4221-8325-2dbe514b2b73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Password terlalu pendek, min 8 character' or . = 'Password terlalu pendek, min 8 character')]</value>
+      <webElementGuid>d4e0cde2-5d2a-4c91-86a1-0d9b938611ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

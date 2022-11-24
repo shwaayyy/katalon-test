@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_to continue to Digisign_uname</name>
+   <name>input_Wahyu Hidayat_168098</name>
    <tag></tag>
-   <elementGuidId>8e0f0940-b0a9-4dfc-820e-45d479f92531</elementGuidId>
+   <elementGuidId>10f2a6e0-83e4-4059-84b1-790219672749</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#username</value>
+         <value>#pd</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='username']</value>
+         <value>//input[@id='pd']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>030d7cdd-65e3-45b1-b0da-13e2414266be</webElementGuid>
+      <webElementGuid>44403e16-002e-40f9-a8b5-889b817603d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>bf7d8734-aa55-4c8a-99db-788e63cc66ac</webElementGuid>
+      <value>pd</value>
+      <webElementGuid>163eeace-4828-4cf1-849f-e6dba734778a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>0896158b-7c4b-449a-9648-aa5069062c34</webElementGuid>
+      <value>password</value>
+      <webElementGuid>b01e7562-097d-44e3-aa76-8d7d4e158185</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,62 +46,62 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>b6908bad-9c10-43cc-93c8-6080886b5a9a</webElementGuid>
+      <webElementGuid>f0506743-d574-444c-aa53-15cd9e6a26f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>uname</value>
-      <webElementGuid>638ccec8-b356-42de-80ca-b2d6c901fcec</webElementGuid>
+      <value>168098</value>
+      <webElementGuid>761f2b19-50e7-4506-903a-4eb0880c9f4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Username or Email</value>
-      <webElementGuid>0d734952-8f1f-47b1-b5ee-60208fd5d5d9</webElementGuid>
+      <value>password</value>
+      <webElementGuid>e2910253-0b4e-4fb2-9c99-77de52895c06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;username&quot;)</value>
-      <webElementGuid>cd78e31f-7f06-443e-8326-e94c222e06c1</webElementGuid>
+      <value>id(&quot;pd&quot;)</value>
+      <webElementGuid>26063fb1-c55f-41e6-934d-b08d49e60445</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='username']</value>
-      <webElementGuid>b7bc9e54-e15a-4573-9d10-fbaa4d1f3e3d</webElementGuid>
+      <value>//input[@id='pd']</value>
+      <webElementGuid>afce18b9-22ca-476f-8f19-3b1be225dd12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='dusername']/input</value>
-      <webElementGuid>b2ed9416-4a32-4d2e-866c-586d4a134893</webElementGuid>
+      <value>//div[@id='pdform']/input</value>
+      <webElementGuid>74e68789-f2da-46f6-bb9b-4ce5c7ea3162</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>4e9480c9-1835-4a8c-9bc3-0ddaa6f9378c</webElementGuid>
+      <value>//div[2]/input</value>
+      <webElementGuid>697fc0d3-a22e-4e1e-9858-1716bff91bc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'username' and @type = 'text' and @name = 'uname' and @placeholder = 'Username or Email']</value>
-      <webElementGuid>10db78ce-4165-4d23-aa33-850727dd476b</webElementGuid>
+      <value>//input[@id = 'pd' and @type = 'password' and @name = '168098' and @placeholder = 'password']</value>
+      <webElementGuid>2f6c2f20-6892-47d0-805e-307da21a63f3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Password Salah</name>
+   <tag></tag>
+   <elementGuidId>029a99d7-6af2-4aef-be91-c241ea99fbb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login-alert']/h5/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>a84621ac-6561-4fb0-8a22-f554df33f0cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[Password Salah]</value>
+      <webElementGuid>30277877-e5d0-431d-bd78-288040245bf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-content-center align-items-center text-center&quot;]/div[@class=&quot;col-12 col-sm-8 col-md-8 col-lg-8 col-xl-5&quot;]/div[@id=&quot;login-alert&quot;]/h5[1]/b[1]</value>
+      <webElementGuid>d1e57148-b25a-4741-b348-d70be8477370</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login-alert']/h5/b</value>
+      <webElementGuid>547e98c1-a500-42b6-b0b4-5d5a82d5430e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/preceding::b[1]</value>
+      <webElementGuid>6101791d-d95c-4dd4-a70b-e89ab26782c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='to continue to Digisign'])[1]/preceding::b[2]</value>
+      <webElementGuid>e7bbc8ec-2d75-475e-be16-7ea485482513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='[Password Salah]']/parent::*</value>
+      <webElementGuid>8cfb587c-3580-49ae-b97a-fe5c63edeee7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>ae24a1dc-2b40-40f4-a83d-a9fcf9d8b3f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '[Password Salah]' or . = '[Password Salah]')]</value>
+      <webElementGuid>5a53e990-0125-4b67-94de-e8a524a72942</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

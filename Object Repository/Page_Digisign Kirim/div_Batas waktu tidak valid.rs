@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Batas waktu tidak valid</name>
+   <tag></tag>
+   <elementGuidId>0478b21c-938e-4501-9a10-936bfc9b54cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#swal2-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='swal2-content']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>44b9ebfc-676b-4009-b104-fc7dba705aac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>swal2-content</value>
+      <webElementGuid>3550a20c-d8e4-4477-94dc-885e0269f140</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Batas waktu tidak valid</value>
+      <webElementGuid>dc610a93-4850-49ec-95c2-b04659a9b679</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;swal2-content&quot;)</value>
+      <webElementGuid>8893cd70-4761-40bb-ace9-68b6354255af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='swal2-content']</value>
+      <webElementGuid>189e538f-3ee5-4393-aea8-c545c792e4a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ã—'])[1]/following::div[2]</value>
+      <webElementGuid>61060f3c-cfa6-4571-9ba8-8e1bd129dafc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='i'])[1]/following::div[7]</value>
+      <webElementGuid>3986bb48-5252-4e1e-9a92-126e1ae8c53f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::div[4]</value>
+      <webElementGuid>e3b8e395-4b29-4eca-976a-07a4b18103c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/preceding::div[4]</value>
+      <webElementGuid>8e97fb6d-1ac0-4871-a40d-7ca6ba46aa3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Batas waktu tidak valid']/parent::*</value>
+      <webElementGuid>153b73ab-7563-457c-8d47-8f092784af56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div</value>
+      <webElementGuid>9f0876ae-8a85-4eac-8761-36004b8c19c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'swal2-content' and (text() = 'Batas waktu tidak valid' or . = 'Batas waktu tidak valid')]</value>
+      <webElementGuid>9143698b-f336-46d1-abd0-31a2cb165cf0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

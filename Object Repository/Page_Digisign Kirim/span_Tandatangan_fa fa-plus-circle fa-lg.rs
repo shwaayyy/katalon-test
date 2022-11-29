@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tandatangan_fa fa-plus-circle fa-lg</name>
+   <tag></tag>
+   <elementGuidId>0e3d0b04-6518-49c6-a04e-ff8cf8b5bb08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.fa.fa-plus-circle.fa-lg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hdr']/div/div[2]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>48364c98-23dc-438f-9674-c460255f8a1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>378298c4-cdf8-45ea-bed3-cf8fb2a52a74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-plus-circle fa-lg</value>
+      <webElementGuid>eb7f1f0c-778c-48ef-9050-774134903104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hdr&quot;)/div[@class=&quot;col text-center&quot;]/div[@class=&quot;btn-group grp&quot;]/button[@class=&quot;btn btn-light mt-2 mb-2 text-dark&quot;]/span[@class=&quot;fa fa-plus-circle fa-lg&quot;]</value>
+      <webElementGuid>51cae04e-6c06-42a6-981c-53195401a3fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hdr']/div/div[2]/button/span</value>
+      <webElementGuid>1b2457ab-7530-4e89-b7f5-b30fa66182fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>3bf47c19-979a-481b-b46f-3d9e2706a663</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

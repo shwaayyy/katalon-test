@@ -9,4 +9,24 @@
       <initValue>'https://app.tandatanganku.com/'</initValue>
       <name>BASE_URL</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Dibutuhkan Tandatangan'</initValue>
+      <name>TANDATANGAN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Dibutuhkan Paraf'</initValue>
+      <name>PARAF</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Dibutuhkan Pengecekan'</initValue>
+      <name>PENGECEKAN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Dibutuhkan Salinan'</initValue>
+      <name>SALINAN</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

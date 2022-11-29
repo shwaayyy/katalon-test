@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pengecekan tidak boleh diurutan terakhir</name>
+   <tag></tag>
+   <elementGuidId>68e570f9-8fea-4aea-b520-cab3b469f4eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#swal2-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='swal2-content']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>35ff9751-5c6b-43d7-bd93-5cb46e85c2ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>swal2-content</value>
+      <webElementGuid>f6705076-8486-47c3-a8c2-4b5e99f24f51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pengecekan tidak boleh diurutan terakhir.</value>
+      <webElementGuid>b4f9bea9-92e6-421c-99ec-b9d5b1276267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;swal2-content&quot;)</value>
+      <webElementGuid>7d815e2c-ead5-43f2-9695-c7c86e0f642a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='swal2-content']</value>
+      <webElementGuid>08e16d0f-84fd-493f-8b78-3e3753adaf81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ã—'])[1]/following::div[2]</value>
+      <webElementGuid>79f8c18f-742d-4962-865e-d726ec0e8155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='i'])[1]/following::div[7]</value>
+      <webElementGuid>787a6ddc-85e0-4612-9536-74676a42f89d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::div[4]</value>
+      <webElementGuid>cd976c09-2b05-497b-96e5-5f34ede733a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/preceding::div[4]</value>
+      <webElementGuid>576a3059-d978-4db6-9b6b-b3fdb09423f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pengecekan tidak boleh diurutan terakhir.']/parent::*</value>
+      <webElementGuid>d2b217e5-8afc-4fc1-8c39-dc91f9e648d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div</value>
+      <webElementGuid>5b31db3b-fd3e-426d-bcc1-f91b096a0fb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'swal2-content' and (text() = 'Pengecekan tidak boleh diurutan terakhir.' or . = 'Pengecekan tidak boleh diurutan terakhir.')]</value>
+      <webElementGuid>bea9871d-2f9e-443f-bf03-26fd55147f51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

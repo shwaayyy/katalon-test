@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_clock_gj-icon chevron-left</name>
+   <tag></tag>
+   <elementGuidId>6e0bcc48-2d00-4707-8ecd-04845e61ed4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.gj-icon.chevron-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div[2]/div/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c9faf034-47dd-4d70-9d95-102fb17c2e41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gj-icon chevron-left</value>
+      <webElementGuid>4d5e2ff7-0889-4604-a7bf-32a42c32e21d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[1]/div[@class=&quot;gj-modal&quot;]/div[@class=&quot;gj-picker gj-picker-md datetimepicker gj-unselectable&quot;]/div[2]/div[1]/div[1]/i[@class=&quot;gj-icon chevron-left&quot;]</value>
+      <webElementGuid>e8a0977e-dcd2-48a8-b40d-dc834c32514b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/i</value>
+      <webElementGuid>0588cf5f-32e8-43c5-a258-abfcef1f9b2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

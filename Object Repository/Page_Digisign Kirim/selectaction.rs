@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>selectaction</name>
+   <tag></tag>
+   <elementGuidId>71f53539-8602-4b4f-804e-4a09d9e53c19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-ck1-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ck1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6fff1b65-159c-440a-bdf5-696a33f4d3a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>3fb06814-bcc9-4f6c-bc4d-51498390ad7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-ck1-container</value>
+      <webElementGuid>ee111cc0-197a-48a8-b5ef-cdc119ebead1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value> Dibutuhkan Tandatangan  </value>
+      <webElementGuid>2e9fd56e-facf-4345-9c9f-cdf3f3e94204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Dibutuhkan Tandatangan  </value>
+      <webElementGuid>769178e4-05c1-4eae-9e8c-d59d8bb6116d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-ck1-container&quot;)</value>
+      <webElementGuid>55192017-8f32-4e21-a836-eb796326ccff</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

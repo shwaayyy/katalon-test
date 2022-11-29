@@ -17,3 +17,31 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(GlobalVariable.BASE_URL)
+
+WebUI.setText(findTestObject('Object Repository/Page_Digisign/input_to continue to Digisign_uname'), 'wahyuhi')
+
+WebUI.click(findTestObject('Object Repository/Page_Digisign/button_Next'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Digisign/input_Wahyu Hidayat_770465'), 'zJMR4cZ8NEag1qGiTsvDpA==')
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_Digisign/input_Wahyu Hidayat_770465'), Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/Page_Digisign/div_wayyyshelbygmail.com                   _ebda70'))
+
+WebUI.uploadFile(findTestObject('Object Repository/Page_Digisign/inputfile'), 'C:\\\\Users\\\\dignitas\\\\Downloads\\\\company_image_20221101070631.pdf')
+
+WebUI.click(findTestObject('Object Repository/Page_Digisign/button_Unggah Dokumen'))
+
+WebUI.click(findTestObject('Object Repository/Page_Digisign Kirim/button_Tambah Saya'))
+
+WebUI.click(findTestObject('Object Repository/Page_Digisign Kirim/button_Tambah Penerima'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Digisign Kirim/input_Nama_name-2'), 'aziz')
+
+WebUI.click(findTestObject('Object Repository/Page_Digisign Kirim/button_Lanjutkan'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Digisign Kirim/div_Email penerima masih kosong'), 0)
+
+WebUI.closeBrowser()
+

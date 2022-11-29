@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser(GlobalVariable.BASE_URL)
 
-WebUI.setText(findTestObject('Page_Digisign/input_to continue to Digisign_uname'), 'wahyuhi')
+WebUI.setText(findTestObject('Object Repository/Page_Digisign/input_to continue to Digisign_uname'), 'wahyuhi')
 
-WebUI.click(findTestObject('Page_Digisign/button_Next'))
+WebUI.click(findTestObject('Object Repository/Page_Digisign/button_Next'))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Digisign/input_Wahyu Hidayat_770465'), 'zJMR4cZ8NEag1qGiTsvDpA==')
 
@@ -29,9 +29,19 @@ WebUI.sendKeys(findTestObject('Object Repository/Page_Digisign/input_Wahyu Hiday
 
 WebUI.click(findTestObject('Object Repository/Page_Digisign/div_wayyyshelbygmail.com                   _ebda70'))
 
-WebUI.uploadFile(findTestObject('Page_Digisign/inputfile'), 'C:\\\\Users\\\\dignitas\\\\Downloads\\\\company_image_20221101070631.pdf')
+WebUI.uploadFile(findTestObject('Object Repository/Page_Digisign/inputfile'), 'C:\\\\Users\\\\dignitas\\\\Downloads\\\\company_image_20221101070631.pdf')
 
 WebUI.click(findTestObject('Object Repository/Page_Digisign/button_Unggah Dokumen'))
+
+WebUI.click(findTestObject('Object Repository/Page_Digisign Kirim/button_Tambah Saya'))
+
+WebUI.click(findTestObject('Object Repository/Page_Digisign Kirim/button_Tambah Penerima'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Digisign Kirim/input_Email_email-2'), 'aziz@digi-id.id')
+
+WebUI.click(findTestObject('Object Repository/Page_Digisign Kirim/button_Lanjutkan'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Digisign Kirim/div_Nama penerima masih kosong'), 30)
 
 WebUI.closeBrowser()
 

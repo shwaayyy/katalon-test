@@ -55,5 +55,3 @@ WebUI.click(findTestObject('Object Repository/Page_Digisign Kirim/button_Proses'
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Digisign Kirim/div_Dokumen berhasil dikirim'), 30)
 
-WebUI.closeBrowser()
-

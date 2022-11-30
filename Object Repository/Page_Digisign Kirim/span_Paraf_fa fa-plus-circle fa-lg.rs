@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>bffdae6d-e15d-4786-b3c0-1d6771b233f5</webElementGuid>
+      <webElementGuid>91347554-f6c2-4e49-a9fd-aef5c191d878</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>a1805480-a497-4b4a-84fa-8d1beb21e1d8</webElementGuid>
+      <webElementGuid>fdce87ac-6a25-481f-aad2-dcd85073cb19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa fa-plus-circle fa-lg</value>
-      <webElementGuid>f261448a-777e-4a5e-95ec-50a6f8208042</webElementGuid>
+      <webElementGuid>38470053-f77a-43c0-b08d-ff07f5f6bf71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;hdr&quot;)/div[@class=&quot;col text-center&quot;]/div[@class=&quot;btn-group grp&quot;]/button[@class=&quot;btn btn-light mt-2 mb-2 text-dark&quot;]/span[@class=&quot;fa fa-plus-circle fa-lg&quot;]</value>
-      <webElementGuid>6b83d27a-24c1-4c5b-9f76-cfaf995acc65</webElementGuid>
+      <webElementGuid>fcbb4b89-e1ec-4555-942a-c7a4718cbdcb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='hdr']/div/div[2]/button/span</value>
-      <webElementGuid>a8fde70c-ae3b-4bd2-9b85-a9b25eaec73e</webElementGuid>
+      <webElementGuid>efd07c74-cc72-4311-a628-87bdb752a1e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button/span</value>
-      <webElementGuid>b4ef4da0-428b-4c8e-8a0e-e2dbd04a8e01</webElementGuid>
+      <webElementGuid>5f5d985d-ec74-41f6-b68a-9618a288b68b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

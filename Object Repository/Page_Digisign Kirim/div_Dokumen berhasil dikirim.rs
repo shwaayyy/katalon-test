@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>9cdad786-62e5-450e-803a-0c45dad58959</webElementGuid>
+      <webElementGuid>7fd23fed-6ef7-4424-baac-e9c657d8ee12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>swal2-content</value>
-      <webElementGuid>553d9648-5fc1-44a2-a9c3-4b9980128d05</webElementGuid>
+      <webElementGuid>8606af9d-fd8b-429e-98dc-cd5cd2f8f404</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Dokumen berhasil dikirim</value>
-      <webElementGuid>bfb3d5c5-29c6-452d-9c9c-807bea6f778c</webElementGuid>
+      <webElementGuid>e1d8d239-bb85-4684-aa4a-3ea2fe3c11df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;swal2-content&quot;)</value>
-      <webElementGuid>03b6b953-9a3b-482f-bf75-702193ddae11</webElementGuid>
+      <webElementGuid>26f8d863-d443-499e-b4b7-da81cd888750</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='swal2-content']</value>
-      <webElementGuid>820880bb-458b-49b6-853e-1b75668b6715</webElementGuid>
+      <webElementGuid>facf15b0-88ab-44be-a968-c8bd74e8e122</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ã—'])[1]/following::div[2]</value>
-      <webElementGuid>15bdcb5e-3e41-4c81-9369-5d304f953987</webElementGuid>
+      <webElementGuid>c5499c71-eb00-4428-8a30-831d50a960a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='i'])[1]/following::div[7]</value>
-      <webElementGuid>2aca9404-2958-42da-b41e-c46f28336f5c</webElementGuid>
+      <webElementGuid>ac3a25c3-72b0-47a4-a356-8ec8c985f23b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::div[4]</value>
-      <webElementGuid>d2be0f79-feb1-4227-bd05-1d1384ca9968</webElementGuid>
+      <webElementGuid>c595c6f0-e643-4d85-91e9-bf99812d110e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[4]</value>
-      <webElementGuid>e9e9c704-a9fe-4738-b205-2941a0b9635c</webElementGuid>
+      <webElementGuid>0fda4b41-1f1e-47c9-8520-92efb0300b0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Dokumen berhasil dikirim']/parent::*</value>
-      <webElementGuid>a76b9724-5d42-4d56-9911-c354e687cbc2</webElementGuid>
+      <webElementGuid>5e2d0a09-c3a5-47a3-be58-ef5fdc7ec8d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div[2]/div</value>
-      <webElementGuid>1888d9fe-d1c6-49e4-a2f0-01e1c6019caa</webElementGuid>
+      <webElementGuid>9e1b38c4-12a4-481d-a50b-d3b3b2bf09ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'swal2-content' and (text() = 'Dokumen berhasil dikirim' or . = 'Dokumen berhasil dikirim')]</value>
-      <webElementGuid>e988d308-eced-46cb-830c-477fe0256645</webElementGuid>
+      <webElementGuid>2c20a125-bd40-4bee-b77b-f711c9e73277</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Paraf</name>
+   <name>div_Kode OTP tidak boleh kosong</name>
    <tag></tag>
-   <elementGuidId>e0a0e8c4-3805-46d5-baa2-90ac61082e9e</elementGuidId>
+   <elementGuidId>13f2adab-6b2d-466f-8da8-5dd8ac346355</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#imginit-1</value>
+         <value>div.swal-text</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='imginit-1']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes, I Agree'])[2]/following::div[8]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,78 +22,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>a1aa3e39-a244-4572-bbfa-78eddb3ee55b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>imginit-1</value>
-      <webElementGuid>4075f701-ca05-4fe2-bde5-41e6f20e3471</webElementGuid>
+      <webElementGuid>29fb74ee-76ac-4c4b-834a-478a30bc5e99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>fooinit green</value>
-      <webElementGuid>b31d6d2c-c6a3-4a20-bb80-76fa80437b08</webElementGuid>
+      <value>swal-text</value>
+      <webElementGuid>74b013fb-17cc-42ff-bed5-1ced6d01a406</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Paraf</value>
-      <webElementGuid>105c3d95-6ad2-48f5-b153-0680676b6fcd</webElementGuid>
+      <value>Kode OTP tidak boleh kosong !</value>
+      <webElementGuid>8438021e-fd41-4fdf-9829-c3d763e1613d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;imginit-1&quot;)</value>
-      <webElementGuid>5699e077-bc79-4287-a8b8-a792611259f8</webElementGuid>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;swal-overlay swal-overlay--show-modal&quot;]/div[@class=&quot;swal-modal&quot;]/div[@class=&quot;swal-text&quot;]</value>
+      <webElementGuid>6bdb0f12-0173-4981-830d-2df841c76423</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//div[@id='imginit-1']</value>
-      <webElementGuid>b31a8fea-f84f-42d9-953e-0a25d3b1908c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='widgetlockinit1']/div</value>
-      <webElementGuid>db3d36b7-8573-4683-bfb0-2dec3d144b94</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes, I Agree'])[2]/following::div[8]</value>
+      <webElementGuid>8cc64bde-4c1f-4f5d-808b-39e14b485f3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading page ...'])[1]/preceding::div[3]</value>
-      <webElementGuid>c073f775-43ee-4ec1-a00e-0c693c04cc2a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::div[1]</value>
+      <webElementGuid>b7cf5c25-e1c6-4a49-98a1-928681176c89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kode OTP tidak boleh kosong !']/parent::*</value>
+      <webElementGuid>bd85084f-67e1-4fbf-af32-2039c88db620</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[13]/div/div[2]/div/div/div</value>
-      <webElementGuid>06dc7c64-9c33-4070-b756-52acba643880</webElementGuid>
+      <value>//div[20]/div/div[2]</value>
+      <webElementGuid>35c0f880-8191-443c-952c-4a4d0a984c20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[@id = 'imginit-1' and (text() = 'Paraf' or . = 'Paraf')]</value>
-      <webElementGuid>7c1a9913-5821-4251-b9b5-df9152ccbe1c</webElementGuid>
+      <value>//div[(text() = 'Kode OTP tidak boleh kosong !' or . = 'Kode OTP tidak boleh kosong !')]</value>
+      <webElementGuid>9192eef6-4a4d-472b-8c8b-0f350d830e6f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

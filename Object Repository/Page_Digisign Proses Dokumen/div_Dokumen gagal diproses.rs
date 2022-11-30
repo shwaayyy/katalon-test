@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Kirim Dokumen</name>
+   <name>div_Dokumen gagal diproses</name>
    <tag></tag>
-   <elementGuidId>54120d2e-7905-47f1-807a-21ff7bece387</elementGuidId>
+   <elementGuidId>328b44e3-c904-4959-bb8f-f3021e51398e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#send</value>
+         <value>#text_mdl</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='send']</value>
+         <value>//div[@id='text_mdl']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,111 +21,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>b3089576-f3cc-468c-8389-5052ddcaf0f2</webElementGuid>
+      <value>div</value>
+      <webElementGuid>62a3888d-94de-4556-bb3b-0e81a343cd29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary mt-2 mb-2</value>
-      <webElementGuid>96a273cd-0234-4576-8a2d-dd8404a040db</webElementGuid>
+      <value>modal-body</value>
+      <webElementGuid>a7b52b27-8da7-4e73-86ab-2f4a3901833a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>send</value>
-      <webElementGuid>adc34981-f0a1-4c94-8125-dd90aa189069</webElementGuid>
+      <value>text_mdl</value>
+      <webElementGuid>4cf0bdc4-03a4-4a2b-9124-5946b04e2e28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Kirim Dokumen </value>
-      <webElementGuid>88c5b17c-17a7-4f4a-9e66-2f2bdd254622</webElementGuid>
+      <value>Dokumen gagal diproses</value>
+      <webElementGuid>33c8f114-26f4-45e5-ab08-fbb204a8ef5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;send&quot;)</value>
-      <webElementGuid>cfd791df-6873-44a2-a776-31c98a722d54</webElementGuid>
+      <value>id(&quot;text_mdl&quot;)</value>
+      <webElementGuid>1f75ce63-a989-45d6-9f07-ff7515225540</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='send']</value>
-      <webElementGuid>fbe6e2e6-b664-4571-8fdb-d8c47c23084d</webElementGuid>
+      <value>//div[@id='text_mdl']</value>
+      <webElementGuid>7ab20a5c-225a-4b9f-a510-077ddb66b6c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='pdf-contents']/div[5]/div/button[2]</value>
-      <webElementGuid>cc6ea20f-97c5-4e27-9cfc-dfca3c4b8477</webElementGuid>
+      <value>//div[@id='myModal']/div/div/div[2]</value>
+      <webElementGuid>fd84ae77-3919-4e0b-9cd2-141895436f55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/following::button[1]</value>
-      <webElementGuid>c7fb95da-9355-4fdf-91c9-a047d93b6aac</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gagal'])[1]/following::div[1]</value>
+      <webElementGuid>43140766-c903-495e-8956-3f5d9e43b1bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading page ...'])[1]/following::button[2]</value>
-      <webElementGuid>ffc26f18-7e38-4aa2-982d-ab6f6918d129</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tutup'])[2]/following::div[5]</value>
+      <webElementGuid>2e4ca908-eb4a-41dd-8e5d-35f261fa25f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='GO'])[1]/preceding::button[1]</value>
-      <webElementGuid>2992b97e-2745-4451-bb86-97b20436f8eb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tutup'])[3]/preceding::div[1]</value>
+      <webElementGuid>dfd60075-7087-4579-986a-00af443b01f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='DOKUMEN'])[1]/preceding::button[2]</value>
-      <webElementGuid>37f3dc78-0de1-43ec-b536-c1155b3da1d2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[3]/preceding::div[2]</value>
+      <webElementGuid>d09185af-0461-4805-8510-f1e0c03a6721</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Kirim Dokumen']/parent::*</value>
-      <webElementGuid>6245f2f5-ff58-459f-8459-f67eea0bbe8b</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Dokumen gagal diproses']/parent::*</value>
+      <webElementGuid>d4cebe76-e4cc-4336-84cf-b06522c754bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[5]/div/button[2]</value>
-      <webElementGuid>c4954fb2-f77c-4476-9181-25635efc21ba</webElementGuid>
+      <value>//div[4]/div/div/div[2]</value>
+      <webElementGuid>83fb7721-6047-46eb-ad70-341c9da51039</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'send' and (text() = ' Kirim Dokumen ' or . = ' Kirim Dokumen ')]</value>
-      <webElementGuid>e2ed9849-63f8-4d36-a5d5-07a712585f99</webElementGuid>
+      <value>//div[@id = 'text_mdl' and (text() = 'Dokumen gagal diproses' or . = 'Dokumen gagal diproses')]</value>
+      <webElementGuid>8fb5384e-58d1-44c1-97ae-224d62fee290</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

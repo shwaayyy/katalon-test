@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Paraf</name>
+   <name>input_Masukkan OTP_otp</name>
    <tag></tag>
-   <elementGuidId>e0a0e8c4-3805-46d5-baa2-90ac61082e9e</elementGuidId>
+   <elementGuidId>f28f9b03-da29-4212-8a35-3671c1295424</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#imginit-1</value>
+         <value>#otp</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='imginit-1']</value>
+         <value>//input[@id='otp']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,79 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>a1aa3e39-a244-4572-bbfa-78eddb3ee55b</webElementGuid>
+      <value>input</value>
+      <webElementGuid>6056d06b-0aa2-42e8-a066-f4d5acb2c5d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>type</name>
       <type>Main</type>
-      <value>imginit-1</value>
-      <webElementGuid>4075f701-ca05-4fe2-bde5-41e6f20e3471</webElementGuid>
+      <value>tel</value>
+      <webElementGuid>ccc5e127-abc4-43cf-8a60-ad70b2bcf4e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>fooinit green</value>
-      <webElementGuid>b31d6d2c-c6a3-4a20-bb80-76fa80437b08</webElementGuid>
+      <value>NumOnly letterotp</value>
+      <webElementGuid>98fbf966-49ac-47e6-a186-8912b1b1d2c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>43149f27-ad3a-4697-8758-218f69918f9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>name</name>
       <type>Main</type>
-      <value>Paraf</value>
-      <webElementGuid>105c3d95-6ad2-48f5-b153-0680676b6fcd</webElementGuid>
+      <value>otp</value>
+      <webElementGuid>850d677f-f661-4970-8885-9a602dacd3c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>otp</value>
+      <webElementGuid>778fcf1c-4073-44ff-b776-4bcfba6bd586</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;imginit-1&quot;)</value>
-      <webElementGuid>5699e077-bc79-4287-a8b8-a792611259f8</webElementGuid>
+      <value>id(&quot;otp&quot;)</value>
+      <webElementGuid>6b2d0723-950f-4809-a12c-c33599215eef</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//div[@id='imginit-1']</value>
-      <webElementGuid>b31a8fea-f84f-42d9-953e-0a25d3b1908c</webElementGuid>
+      <value>//input[@id='otp']</value>
+      <webElementGuid>9f0a609f-5503-4480-86a6-0e1d2f436cf2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='widgetlockinit1']/div</value>
-      <webElementGuid>db3d36b7-8573-4683-bfb0-2dec3d144b94</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading page ...'])[1]/preceding::div[3]</value>
-      <webElementGuid>c073f775-43ee-4ec1-a00e-0c693c04cc2a</webElementGuid>
+      <value>//div[@id='modotp']/input</value>
+      <webElementGuid>6f8895ed-7bd3-4a49-9dba-8fee2196c0f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[13]/div/div[2]/div/div/div</value>
-      <webElementGuid>06dc7c64-9c33-4070-b756-52acba643880</webElementGuid>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>3c4eab80-2246-45cd-afbf-a9df90b417dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[@id = 'imginit-1' and (text() = 'Paraf' or . = 'Paraf')]</value>
-      <webElementGuid>7c1a9913-5821-4251-b9b5-df9152ccbe1c</webElementGuid>
+      <value>//input[@type = 'tel' and @name = 'otp' and @id = 'otp']</value>
+      <webElementGuid>44d01542-b2a9-41d2-8f3d-6752e84b364a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

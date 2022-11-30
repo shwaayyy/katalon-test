@@ -1,131 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Kirim Dokumen</name>
+   <name>div_Kode OTP sudah dikirim sebanyak 3x. Sil_7b6418</name>
    <tag></tag>
-   <elementGuidId>54120d2e-7905-47f1-807a-21ff7bece387</elementGuidId>
+   <elementGuidId>a61a825c-b862-43dc-b7cc-bb880922cb1c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#send</value>
+         <value>#text_mdl</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Kode OTP sudah dikirim sebanyak 3x. Silakan coba kembali setelah 10 menit' or . = 'Kode OTP sudah dikirim sebanyak 3x. Silakan coba kembali setelah 10 menit')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='send']</value>
+         <value>//div[@id='text_mdl']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>b3089576-f3cc-468c-8389-5052ddcaf0f2</webElementGuid>
+      <value>div</value>
+      <webElementGuid>75dc0f61-eb11-4f8a-912e-c2cf62e3c95f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary mt-2 mb-2</value>
-      <webElementGuid>96a273cd-0234-4576-8a2d-dd8404a040db</webElementGuid>
+      <value>modal-body</value>
+      <webElementGuid>53a89063-b315-4921-a733-3ee40991e71e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>send</value>
-      <webElementGuid>adc34981-f0a1-4c94-8125-dd90aa189069</webElementGuid>
+      <value>text_mdl</value>
+      <webElementGuid>a4d3155a-6a66-4a92-aecd-8a7f35ef5876</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Kirim Dokumen </value>
-      <webElementGuid>88c5b17c-17a7-4f4a-9e66-2f2bdd254622</webElementGuid>
+      <value>Kode OTP sudah dikirim sebanyak 3x. Silakan coba kembali setelah 10 menit</value>
+      <webElementGuid>faf6d4d9-f70f-494d-9f4c-afee6d07a60d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;send&quot;)</value>
-      <webElementGuid>cfd791df-6873-44a2-a776-31c98a722d54</webElementGuid>
+      <value>id(&quot;text_mdl&quot;)</value>
+      <webElementGuid>215f2529-5c5e-49d6-9658-7141115a845f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='send']</value>
-      <webElementGuid>fbe6e2e6-b664-4571-8fdb-d8c47c23084d</webElementGuid>
+      <value>//div[@id='text_mdl']</value>
+      <webElementGuid>a536e0bb-b224-4841-9c22-fa2497d10bd3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='pdf-contents']/div[5]/div/button[2]</value>
-      <webElementGuid>cc6ea20f-97c5-4e27-9cfc-dfca3c4b8477</webElementGuid>
+      <value>//div[@id='myModal']/div/div/div[2]</value>
+      <webElementGuid>90152b54-ad2d-456f-8435-7aa31693c3fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/following::button[1]</value>
-      <webElementGuid>c7fb95da-9355-4fdf-91c9-a047d93b6aac</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gagal'])[1]/following::div[1]</value>
+      <webElementGuid>9c4200d5-562e-4242-86d1-49b7355c2591</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading page ...'])[1]/following::button[2]</value>
-      <webElementGuid>ffc26f18-7e38-4aa2-982d-ab6f6918d129</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tutup'])[2]/following::div[5]</value>
+      <webElementGuid>7ca063f4-457a-41a3-a524-9e0551b35bfd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='GO'])[1]/preceding::button[1]</value>
-      <webElementGuid>2992b97e-2745-4451-bb86-97b20436f8eb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tutup'])[3]/preceding::div[1]</value>
+      <webElementGuid>d575003a-421f-42d6-bfac-1f80fc860e25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='DOKUMEN'])[1]/preceding::button[2]</value>
-      <webElementGuid>37f3dc78-0de1-43ec-b536-c1155b3da1d2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[3]/preceding::div[2]</value>
+      <webElementGuid>6df69c8f-55f2-49b7-834e-469bccfd74c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Kirim Dokumen']/parent::*</value>
-      <webElementGuid>6245f2f5-ff58-459f-8459-f67eea0bbe8b</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Kode OTP sudah dikirim sebanyak 3x.']/parent::*</value>
+      <webElementGuid>e92398c1-291b-4dd4-bb91-c26957d1d528</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[5]/div/button[2]</value>
-      <webElementGuid>c4954fb2-f77c-4476-9181-25635efc21ba</webElementGuid>
+      <value>//div[4]/div/div/div[2]</value>
+      <webElementGuid>c29b6b0b-233c-4624-95c7-7f2b5d369d82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'send' and (text() = ' Kirim Dokumen ' or . = ' Kirim Dokumen ')]</value>
-      <webElementGuid>e2ed9849-63f8-4d36-a5d5-07a712585f99</webElementGuid>
+      <value>//div[@id = 'text_mdl' and (text() = 'Kode OTP sudah dikirim sebanyak 3x. Silakan coba kembali setelah 10 menit' or . = 'Kode OTP sudah dikirim sebanyak 3x. Silakan coba kembali setelah 10 menit')]</value>
+      <webElementGuid>f644451f-2e0d-4513-a315-92fd9d69b7ac</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

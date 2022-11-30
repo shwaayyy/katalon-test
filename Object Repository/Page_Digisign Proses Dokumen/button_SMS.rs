@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Set Email</name>
+   <name>button_SMS</name>
    <tag></tag>
-   <elementGuidId>aee65f7c-8318-4bd7-a6fa-65ee3657c68b</elementGuidId>
+   <elementGuidId>2c02d5ff-800a-43ca-ba02-10a192560502</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.col-lg-12 > button.btn.btn-success.btn-sm</value>
+         <value>#btnotp</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[17]</value>
+         <value>//button[@id='btnotp']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3ad80ced-0374-4ea1-b942-4aaa5defe6b7</webElementGuid>
+      <webElementGuid>b3d81716-2296-4902-a3b2-0de5cc04faa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnotp</value>
+      <webElementGuid>eb61d0f6-3ebb-43be-aee2-46c7609b633d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,102 +38,108 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>af15cd84-f0b5-4530-8b77-77d288cd1743</webElementGuid>
+      <webElementGuid>7fa8c575-f531-4357-8e5c-665ab109891f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-success btn-sm</value>
-      <webElementGuid>7baf3ca7-1bd9-4db9-ba9f-d1040164fccb</webElementGuid>
+      <value>btn btn-info</value>
+      <webElementGuid>1a86e953-2a63-423a-a95c-dd772571d1f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-dismiss</name>
+      <name>onclick</name>
       <type>Main</type>
-      <value>modal</value>
-      <webElementGuid>cdaa748a-9886-43ca-a99b-4fa40a1aefea</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-label</name>
-      <type>Main</type>
-      <value>Close</value>
-      <webElementGuid>791da519-096b-42a0-b495-d131382903a3</webElementGuid>
+      <value>otp(path,'1')</value>
+      <webElementGuid>08badb09-d8cc-48eb-a7c8-974235da20d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Set Email</value>
-      <webElementGuid>f3f70270-c67a-4242-90cf-963f06f28f05</webElementGuid>
+      <value>
+                              	 SMS
+                              </value>
+      <webElementGuid>5a133f97-9f1f-4402-b1c3-dcbe519dd321</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;userModallock1&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content bg-light&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;col text-center&quot;]/div[@class=&quot;col-lg-12&quot;]/button[@class=&quot;btn btn-success btn-sm&quot;]</value>
-      <webElementGuid>8d9a1733-d275-40ff-b2cf-4ab0020b893a</webElementGuid>
+      <value>id(&quot;btnotp&quot;)</value>
+      <webElementGuid>09c49234-f26c-416b-b701-b03fb4075580</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[17]</value>
-      <webElementGuid>886f7697-cf41-4a64-be75-326db642b6ca</webElementGuid>
+      <value>//button[@id='btnotp']</value>
+      <webElementGuid>7b7e4b10-c7b5-4c46-9b5b-e25798ddbb8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='userModallock1']/div/div/div/div/div[3]/button</value>
-      <webElementGuid>f144a878-1594-456e-b57a-055b4283b27f</webElementGuid>
+      <value>//div[@id='otpModal']/div/div/div[2]/div[2]/div[3]/div/div/button</value>
+      <webElementGuid>b7b729e7-2f95-4d08-8ad4-341f8995a241</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Email Tandatangan :'])[1]/following::button[1]</value>
-      <webElementGuid>b3c272a3-39d3-4162-b930-ba0522cec83d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak terima, Kirim kembali OTP ?'])[1]/following::button[1]</value>
+      <webElementGuid>374bf386-c8de-47eb-ae5b-83b22ecf37ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proses'])[1]/following::button[1]</value>
-      <webElementGuid>aebef55b-6911-45c3-89fb-fdf8a02c042d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan OTP'])[1]/following::button[1]</value>
+      <webElementGuid>3e9043d7-421e-4df3-ae1f-a84ae5a013d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Set Email']/parent::*</value>
-      <webElementGuid>a544a064-f1fd-47ea-965e-a46d210ffa69</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proses Dokumen'])[1]/preceding::button[2]</value>
+      <webElementGuid>f0a2da39-db38-42cc-ab22-e9dc3d9d1f8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SMS']/parent::*</value>
+      <webElementGuid>5f7681cf-04c1-494e-bfc4-1e5bb9bffb6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[16]/div/div/div/div/div/div[3]/button</value>
-      <webElementGuid>5b4165b5-5dda-4270-852d-1f66429ed97f</webElementGuid>
+      <value>//div[3]/div/div/button</value>
+      <webElementGuid>192c6923-643a-4b44-b00e-f1d2cf998103</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Set Email' or . = 'Set Email')]</value>
-      <webElementGuid>246b0ea3-3599-4f55-8c60-b8190ab105be</webElementGuid>
+      <value>//button[@id = 'btnotp' and @type = 'button' and (text() = '
+                              	 SMS
+                              ' or . = '
+                              	 SMS
+                              ')]</value>
+      <webElementGuid>2f0cbc72-77dd-4970-803d-47e0f32d18f6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

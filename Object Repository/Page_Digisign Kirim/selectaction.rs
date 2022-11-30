@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>6fff1b65-159c-440a-bdf5-696a33f4d3a7</webElementGuid>
+      <webElementGuid>a2ce7c21-c7d1-4c55-b52b-a167d1beeddd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>3fb06814-bcc9-4f6c-bc4d-51498390ad7a</webElementGuid>
+      <webElementGuid>f6d275ab-cca7-4951-baa3-cf6371f9cb94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>select2-ck1-container</value>
-      <webElementGuid>ee111cc0-197a-48a8-b5ef-cdc119ebead1</webElementGuid>
+      <webElementGuid>a7d48c70-52cd-439d-a565-5851d6d10020</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>title</name>
       <type>Main</type>
       <value> Dibutuhkan Tandatangan  </value>
-      <webElementGuid>2e9fd56e-facf-4345-9c9f-cdf3f3e94204</webElementGuid>
+      <webElementGuid>4f8096f1-a4d9-4a2e-a44a-72e0226d4f73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Dibutuhkan Tandatangan  </value>
-      <webElementGuid>769178e4-05c1-4eae-9e8c-d59d8bb6116d</webElementGuid>
+      <webElementGuid>692ca453-c913-4d47-8fac-4900d996ed61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select2-ck1-container&quot;)</value>
-      <webElementGuid>55192017-8f32-4e21-a836-eb796326ccff</webElementGuid>
+      <webElementGuid>19b032a6-b6bd-4092-971d-66d2f4be596a</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Paraf</name>
+   <name>button_Ya, Saya yakin</name>
    <tag></tag>
-   <elementGuidId>e0a0e8c4-3805-46d5-baa2-90ac61082e9e</elementGuidId>
+   <elementGuidId>d6524115-1c05-4169-a9f3-788209832214</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#imginit-1</value>
+         <value>button.swal-button.swal-button--confirm</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='imginit-1']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak, Batal!'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,79 +21,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>a1aa3e39-a244-4572-bbfa-78eddb3ee55b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>imginit-1</value>
-      <webElementGuid>4075f701-ca05-4fe2-bde5-41e6f20e3471</webElementGuid>
+      <value>button</value>
+      <webElementGuid>5a356a06-1c54-4148-bd9b-8f68319ee9d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>fooinit green</value>
-      <webElementGuid>b31d6d2c-c6a3-4a20-bb80-76fa80437b08</webElementGuid>
+      <value>swal-button swal-button--confirm</value>
+      <webElementGuid>ccf1a3e8-d2f0-4f9d-bb00-3439d76695e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Paraf</value>
-      <webElementGuid>105c3d95-6ad2-48f5-b153-0680676b6fcd</webElementGuid>
+      <value>Ya, Saya yakin!</value>
+      <webElementGuid>5e576ce5-1695-4b89-bb39-d3276775adfb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;imginit-1&quot;)</value>
-      <webElementGuid>5699e077-bc79-4287-a8b8-a792611259f8</webElementGuid>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;swal-overlay swal-overlay--show-modal&quot;]/div[@class=&quot;swal-modal&quot;]/div[@class=&quot;swal-footer&quot;]/div[@class=&quot;swal-button-container&quot;]/button[@class=&quot;swal-button swal-button--confirm&quot;]</value>
+      <webElementGuid>b176a35b-ab30-4304-ba44-09b8ec4a0bb6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//div[@id='imginit-1']</value>
-      <webElementGuid>b31a8fea-f84f-42d9-953e-0a25d3b1908c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='widgetlockinit1']/div</value>
-      <webElementGuid>db3d36b7-8573-4683-bfb0-2dec3d144b94</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak, Batal!'])[1]/following::button[1]</value>
+      <webElementGuid>ba05f87e-dc2c-4629-85f0-9c65dcd75946</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading page ...'])[1]/preceding::div[3]</value>
-      <webElementGuid>c073f775-43ee-4ec1-a00e-0c693c04cc2a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Melakukan tandatangan pada dokumen ini'])[1]/following::button[2]</value>
+      <webElementGuid>28d870fc-3241-4f6c-86e3-b133ada00f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ya, Saya yakin!']/parent::*</value>
+      <webElementGuid>ae89c68b-1aff-4e2d-81f1-5de5014128c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[13]/div/div[2]/div/div/div</value>
-      <webElementGuid>06dc7c64-9c33-4070-b756-52acba643880</webElementGuid>
+      <value>//div[4]/div[2]/button</value>
+      <webElementGuid>88907793-bf5a-4501-b2a6-c01022de64be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[@id = 'imginit-1' and (text() = 'Paraf' or . = 'Paraf')]</value>
-      <webElementGuid>7c1a9913-5821-4251-b9b5-df9152ccbe1c</webElementGuid>
+      <value>//button[(text() = 'Ya, Saya yakin!' or . = 'Ya, Saya yakin!')]</value>
+      <webElementGuid>c52df492-3029-49c8-aad3-306781fb4d8e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Paraf_lockinit1</name>
+   <name>div_Kode verifikasi salah</name>
    <tag></tag>
-   <elementGuidId>e67fd774-b15f-4940-8803-c54e65fe5e97</elementGuidId>
+   <elementGuidId>8caa7b1b-a5d4-479f-83df-19fbb12a22c7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#lockinit1</value>
+         <value>div.swal-text</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='lockinit1']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Gagal'])[1]/following::div[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>6b91e389-5b1d-4fd6-ac0a-ce6cdab4cc82</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>lockinit1</value>
-      <webElementGuid>cb664fdc-a74e-43a9-9cff-e2d25fbf5740</webElementGuid>
+      <value>div</value>
+      <webElementGuid>b7668c9e-cad9-4f4f-a83f-d55cb783077f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-warning lockinit</value>
-      <webElementGuid>4bd8fa45-3df3-409a-bdbc-430800437030</webElementGuid>
+      <value>swal-text</value>
+      <webElementGuid>373e3164-1ec7-4828-b8a7-64e2cab5f715</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kode verifikasi salah</value>
+      <webElementGuid>f21c5ae7-75c8-4a46-b541-982f97a69d20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;lockinit1&quot;)</value>
-      <webElementGuid>7d35cbe6-4359-44b9-8dee-5e877a2a505e</webElementGuid>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;swal-overlay swal-overlay--show-modal&quot;]/div[@class=&quot;swal-modal&quot;]/div[@class=&quot;swal-text&quot;]</value>
+      <webElementGuid>9d8e8299-6ed2-4107-a473-26693485c34f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//button[@id='lockinit1']</value>
-      <webElementGuid>f82d4536-2f5d-4dd3-a591-79116d3ee7fc</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='widgetlockinit1']/button</value>
-      <webElementGuid>6c63d728-8236-4889-be2d-23dc4614df4a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gagal'])[1]/following::div[1]</value>
+      <webElementGuid>4dd26f7f-a1ef-4d28-a86a-0517a3311c4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paraf'])[1]/following::button[1]</value>
-      <webElementGuid>90c70e96-4e8a-4709-91a3-5566ae2abec7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes, I Agree'])[2]/following::div[9]</value>
+      <webElementGuid>1bf5358e-2f71-4aa2-a01c-2675863dfcb0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading page ...'])[1]/preceding::button[2]</value>
-      <webElementGuid>04bc3087-93ce-402b-91a0-e64ceb172a06</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::div[1]</value>
+      <webElementGuid>bdbfa084-accb-40b6-9d77-2bcbddca397c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/preceding::button[2]</value>
-      <webElementGuid>871a2b9a-f60b-460d-a779-9049b35dd5d6</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Kode verifikasi salah']/parent::*</value>
+      <webElementGuid>5379ce4d-ce0a-461e-8dde-d6b11e996f05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[13]/div/div[2]/div/div/button</value>
-      <webElementGuid>20551419-59c5-455d-b94d-035601a17881</webElementGuid>
+      <value>//div[20]/div/div[3]</value>
+      <webElementGuid>ad6dcdc0-5bcd-4b1a-93a8-cada6bc19d9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'lockinit1']</value>
-      <webElementGuid>73504081-6177-4ea0-9d0f-5420b1f571a0</webElementGuid>
+      <value>//div[(text() = 'Kode verifikasi salah' or . = 'Kode verifikasi salah')]</value>
+      <webElementGuid>9bda57ea-d549-46cb-b6cb-00371c477999</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

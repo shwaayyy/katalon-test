@@ -46,19 +46,29 @@ WebUI.click(findTestObject('Object Repository/Page_Digisign Kirim/btnoke2'))
 
 WebUI.click(findTestObject('Object Repository/Page_Digisign Proses Dokumen/button_SMS'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Digisign Proses Dokumen/input_Masukkan OTP_otp'), '525241')
+WebUI.setText(findTestObject('Object Repository/Page_Digisign Proses Dokumen/input_Masukkan OTP_otp'), '782383')
 
 WebUI.click(findTestObject('Object Repository/Page_Digisign Proses Dokumen/button_Proses Dokumen'))
 
 WebUI.click(findTestObject('Object Repository/Page_Digisign Proses Dokumen/button_Ya, Saya yakin'))
 
-if (WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Digisign Proses Dokumen/div_Kode sudah dipakai, harap kirim kembali_398eaf'), 
-    30) == false) {
-	if (WebUI.doubleClick(findTestObject('Object Repository/Page_Digisign Proses Dokumen/div_Kode OTP sudah dikirim sebanyak 3x. Sil_7b6418')) == true) {
-		WebUI.click(findTestObject('Object Repository/Page_Digisign Proses Dokumen/button_Tutup'))
-	}
+if (WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Digisign Proses Dokumen/div_Kode verifikasi salah'), 
+    30) == true) {
+    if (WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Digisign Proses Dokumen/div_Kode OTP sudah dikirim sebanyak 3x. Sil_7b6418'), 
+        30) == true) {
+        WebUI.click(findTestObject('Object Repository/Page_Digisign Proses Dokumen/button_Tutup'))
+    } else {
+        WebUI.click(findTestObject('Object Repository/Page_Digisign Kirim/btnoke2'))
+    }
 } else {
-	WebUI.click(findTestObject('Object Repository/Page_Digisign Proses Dokumen/button_OK'))
+    if (WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Digisign Proses Dokumen/div_Kode sudah dipakai, harap kirim kembali_398eaf'), 
+        30) == false) {
+        WebUI.closeBrowser()
+    } else {
+        WebUI.click(findTestObject('Object Repository/Page_Digisign Proses Dokumen/button_OK'))
+    }
+    
+    WebUI.closeBrowser()
 }
 
 WebUI.closeBrowser()

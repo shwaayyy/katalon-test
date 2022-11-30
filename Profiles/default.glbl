@@ -29,4 +29,14 @@
       <initValue>'Dibutuhkan Salinan'</initValue>
       <name>SALINAN</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://saranainvest-backend.k3s.bangun-kreatif.com'</initValue>
+      <name>API_BASE_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'200'</initValue>
+      <name>SUCCESS_CODE</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

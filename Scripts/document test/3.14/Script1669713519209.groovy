@@ -44,9 +44,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Digisign Prose
 
 WebUI.click(findTestObject('Object Repository/Page_Digisign Kirim/btnoke2'))
 
-WebUI.click(findTestObject('Object Repository/Page_Digisign Proses Dokumen/button_SMS'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Digisign Proses Dokumen/input_Masukkan OTP_otp'), '782383')
+WebUI.setText(findTestObject('Object Repository/Page_Digisign Proses Dokumen/input_Masukkan OTP_otp'), '902389')
 
 WebUI.click(findTestObject('Object Repository/Page_Digisign Proses Dokumen/button_Proses Dokumen'))
 
@@ -54,12 +52,7 @@ WebUI.click(findTestObject('Object Repository/Page_Digisign Proses Dokumen/butto
 
 if (WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Digisign Proses Dokumen/div_Kode verifikasi salah'), 
     30) == true) {
-    if (WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Digisign Proses Dokumen/div_Kode OTP sudah dikirim sebanyak 3x. Sil_7b6418'), 
-        30) == true) {
-        WebUI.click(findTestObject('Object Repository/Page_Digisign Proses Dokumen/button_Tutup'))
-    } else {
-        WebUI.click(findTestObject('Object Repository/Page_Digisign Kirim/btnoke2'))
-    }
+    WebUI.click(findTestObject('Object Repository/Page_Digisign Kirim/btnoke2'))
 } else {
     if (WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Digisign Proses Dokumen/div_Kode sudah dipakai, harap kirim kembali_398eaf'), 
         30) == false) {
@@ -71,5 +64,18 @@ if (WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Digisign P
     WebUI.closeBrowser()
 }
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Page_Digisign Proses Dokumen/button_SMS'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Digisign Proses Dokumen/input_Masukkan OTP_otp'), '882930')
+
+WebUI.click(findTestObject('Object Repository/Page_Digisign Proses Dokumen/button_Proses Dokumen'))
+
+WebUI.click(findTestObject('Object Repository/Page_Digisign Proses Dokumen/button_Ya, Saya yakin'))
+
+if (WebUI.verifyElementNotPresent(findTestObject('Object Repository/Page_Digisign Proses Dokumen/div_Kode OTP sudah dikirim sebanyak 3x. Sil_7b6418'), 
+    30) == true) {
+    WebUI.closeBrowser()
+} else {
+    WebUI.click(findTestObject('Object Repository/Page_Digisign Proses Dokumen/button_Tutup'))
+}
 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>api test</name>
+   <name>download file</name>
    <tag></tag>
-   <elementGuidId>322d78ad-1b43-4395-bedb-ca534e685958</elementGuidId>
+   <elementGuidId>02d8a634-8b8b-4c16-b04e-2cba37faee27</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <authorizationRequest>
@@ -15,7 +15,7 @@
       </authorizationInfo>
       <authorizationType>Bearer</authorizationType>
    </authorizationRequest>
-   <connectionTimeout>0</connectionTimeout>
+   <connectionTimeout>-1</connectionTimeout>
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
@@ -24,14 +24,8 @@
   &quot;parameters&quot;: [
     {
       &quot;name&quot;: &quot;jsonfield&quot;,
-      &quot;value&quot;: &quot;{\&quot;JSONFile\&quot;: {\&quot;userid\&quot;: \&quot;adminpp@tandatanganku.com\&quot;,\&quot;document_id\&quot;: \&quot;DOCCDIGROUP_001\&quot;,\&quot;payment\&quot;: \&quot;3\&quot;,\&quot;send-to\&quot;: [{\&quot;name\&quot;: \&quot;signer 1\&quot;,\&quot;email\&quot;: \&quot;cdigroup1@tandatanganku.com\&quot;},{\&quot;name\&quot;: \&quot;signer 2\&quot;,\&quot;email\&quot;: \&quot;cdigroup2@tandatanganku.com\&quot;}],\&quot;req-sign\&quot;: [{\&quot;name\&quot;: \&quot;signer 2\&quot;,\&quot;email\&quot;: \&quot;cdigroup2@tandatanganku.com\&quot;,\&quot;user\&quot;: \&quot;ttd1\&quot;,\&quot;page\&quot;: \&quot;1\&quot;,\&quot;llx\&quot;: \&quot;357\&quot;,\&quot;lly\&quot;: \&quot;348\&quot;,\&quot;urx\&quot;: \&quot;487\&quot;,\&quot;ury\&quot;: \&quot;413\&quot;,\&quot;visible\&quot;: \&quot;1\&quot;}],\&quot;redirect\&quot;: true}}&quot;,
+      &quot;value&quot;: &quot;{\&quot;JSONFile\&quot;: { \&quot;userid\&quot;:\&quot;adminpp@tandatanganku.com\&quot;, \&quot;document_id\&quot;:\&quot;DOCCDIGROUP_003\&quot; }}&quot;,
       &quot;type&quot;: &quot;Text&quot;,
-      &quot;contentType&quot;: &quot;&quot;
-    },
-    {
-      &quot;name&quot;: &quot;file&quot;,
-      &quot;value&quot;: &quot;C:\\Users\\dignitas\\Downloads\\Prospektus.pdf&quot;,
-      &quot;type&quot;: &quot;File&quot;,
       &quot;contentType&quot;: &quot;&quot;
     }
   ]
@@ -42,8 +36,8 @@
       <matchCondition>equals</matchCondition>
       <name>Content-Type</name>
       <type>Main</type>
-      <value>multipart/form-data; boundary=&lt;calculated when request is sent></value>
-      <webElementGuid>a247e554-65d2-444f-af7f-b03c3e0c1915</webElementGuid>
+      <value>multipart/form-data</value>
+      <webElementGuid>dc293048-1b0d-4aee-ae08-89e0655304b2</webElementGuid>
    </httpHeaderProperties>
    <httpHeaderProperties>
       <isSelected>true</isSelected>
@@ -51,20 +45,20 @@
       <name>Authorization</name>
       <type>Main</type>
       <value>Bearer NsOQOUUiUOTCMUaHXSJDbYWQUWFLAqShq1JlICE4CwK1ThwrMgXZR1Kh1dNbjP</value>
-      <webElementGuid>a9b4549a-ec0b-4458-a7d7-f56d0005e5ee</webElementGuid>
+      <webElementGuid>3be41aa9-6eb2-4f17-b2cb-5e569900e244</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>8.5.2</katalonVersion>
-   <maxResponseSize>0</maxResponseSize>
+   <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>https://api.tandatanganku.com/SendDocMitraAT.html</restUrl>
+   <restUrl>https://api.tandatanganku.com/DWMITRA.html</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
    <soapRequestMethod></soapRequestMethod>
    <soapServiceEndpoint></soapServiceEndpoint>
    <soapServiceFunction></soapServiceFunction>
-   <socketTimeout>0</socketTimeout>
+   <socketTimeout>-1</socketTimeout>
    <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
    <verificationScript>import static org.assertj.core.api.Assertions.*
 

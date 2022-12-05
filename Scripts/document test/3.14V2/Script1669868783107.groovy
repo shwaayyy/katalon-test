@@ -19,15 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser(GlobalVariable.BASE_URL)
 
-WebUI.setText(findTestObject('Object Repository/Page_Digisign/input_to continue to Digisign_uname'), 'ditest6@tandatanganku.com')
+WebUI.setText(findTestObject('Object Repository/Page_Digisign/input_to continue to Digisign_uname'), 'wahyuhi')
 
 WebUI.click(findTestObject('Object Repository/Page_Digisign/button_Next'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Digisign/input_Wahyu Hidayat_770465'), 'VJTb+dvhjXsSHjOFnDGWjg==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Digisign/input_Wahyu Hidayat_770465'), 'zJMR4cZ8NEag1qGiTsvDpA==')
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Digisign/input_Wahyu Hidayat_770465'), Keys.chord(Keys.ENTER))
 
-not_run: WebUI.click(findTestObject('Object Repository/Page_Digisign/div_wayyyshelbygmail.com                   _ebda70'))
+WebUI.click(findTestObject('Object Repository/Page_Digisign/div_wayyyshelbygmail.com                   _ebda70'))
 
 WebUI.click(findTestObject('Object Repository/Page_Digisign/a_Tandatangan'))
 
@@ -44,15 +44,27 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Digisign Prose
 
 WebUI.click(findTestObject('Object Repository/Page_Digisign Kirim/btnoke2'))
 
-WebUI.click(findTestObject('Page_Digisign Proses Dokumen/button_Email'))
-
-WebUI.delay(15)
-
-not_run: WebUI.setText(findTestObject('Object Repository/Page_Digisign Proses Dokumen/input_Masukkan OTP_otp'), '525241')
+WebUI.setText(findTestObject('Object Repository/Page_Digisign Proses Dokumen/input_Masukkan OTP_otp'), '902389')
 
 WebUI.click(findTestObject('Object Repository/Page_Digisign Proses Dokumen/button_Proses Dokumen'))
 
 WebUI.click(findTestObject('Object Repository/Page_Digisign Proses Dokumen/button_Ya, Saya yakin'))
+
+if (WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Digisign Proses Dokumen/div_Kode verifikasi salah'), 
+    30) == true) {
+    WebUI.click(findTestObject('Object Repository/Page_Digisign Kirim/btnoke2'))
+} else {
+    if (WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Digisign Proses Dokumen/div_Kode sudah dipakai, harap kirim kembali_398eaf'), 
+        30) == false) {
+        WebUI.closeBrowser()
+    } else {
+        WebUI.click(findTestObject('Object Repository/Page_Digisign Proses Dokumen/button_OK'))
+    }
+    
+    WebUI.closeBrowser()
+}
+
+WebUI.click(findTestObject('Page_Digisign Proses Dokumen/button_Email'))
 
 WebUI.closeBrowser()
 

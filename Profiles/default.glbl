@@ -39,4 +39,19 @@
       <initValue>'200'</initValue>
       <name>SUCCESS_CODE</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'wayyyshelby@gmail.com'</initValue>
+      <name>USERNAME</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'qgztdaowvlyexnme'</initValue>
+      <name>PASSWORD</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Inbox'</initValue>
+      <name>EMAILBOX</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

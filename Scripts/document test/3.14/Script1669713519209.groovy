@@ -64,18 +64,14 @@ if (WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Digisign P
     WebUI.closeBrowser()
 }
 
-WebUI.click(findTestObject('Page_Digisign Proses Dokumen/button_SMS'))
+WebUI.click(findTestObject('Page_Digisign Proses Dokumen/button_Email'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Digisign Proses Dokumen/input_Masukkan OTP_otp'), '882930')
+WebUI.delay(7)
 
-WebUI.click(findTestObject('Object Repository/Page_Digisign Proses Dokumen/button_Proses Dokumen'))
+String OTP = CustomKeywords.'com.testwithhari.katalon.plugins.Gmail.readLatestEMailBodyContent'(GlobalVariable.USERNAME, 
+    GlobalVariable.PASSWORD, GlobalVariable.EMAILBOX)
 
-WebUI.click(findTestObject('Object Repository/Page_Digisign Proses Dokumen/button_Ya, Saya yakin'))
+println(OTP)
 
-if (WebUI.verifyElementNotPresent(findTestObject('Object Repository/Page_Digisign Proses Dokumen/div_Kode OTP sudah dikirim sebanyak 3x. Sil_7b6418'), 
-    30) == true) {
-    WebUI.closeBrowser()
-} else {
-    WebUI.click(findTestObject('Object Repository/Page_Digisign Proses Dokumen/button_Tutup'))
-}
+WebUI.closeBrowser()
 

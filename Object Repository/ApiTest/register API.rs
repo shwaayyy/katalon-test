@@ -24,7 +24,7 @@
   &quot;parameters&quot;: [
     {
       &quot;name&quot;: &quot;jsonfield&quot;,
-      &quot;value&quot;: &quot;{\&quot;JSONFile\&quot;:{\&quot;userid\&quot;:\&quot;adminpp@tandatanganku.com\&quot;,\&quot;alamat\&quot;:\&quot; \&quot;,\&quot;jenis_kelamin\&quot;:\&quot;laki-laki\&quot;,\&quot;kecamatan\&quot;:\&quot; \&quot;,\&quot;kelurahan\&quot;:\&quot; \&quot;,\&quot;kode-pos\&quot;:\&quot; \&quot;,\&quot;kota\&quot;:\&quot; \&quot;,\&quot;nama\&quot;:\&quot;CDI GROUP\&quot;,\&quot;tlp\&quot;:\&quot;080752000729\&quot;,\&quot;tgl_lahir\&quot;:\&quot;01-01-1990\&quot;,\&quot;provinci\&quot;:\&quot; \&quot;,\&quot;idktp\&quot;:\&quot;2389889884958899\&quot;,\&quot;tmp_lahir\&quot;:\&quot;Jakarta\&quot;,\&quot;email\&quot;:\&quot;cdigroup@tandatanganku.com\&quot;,\&quot;npwp\&quot;:\&quot; \&quot;,\&quot;redirect\&quot;:\&quot;true\&quot;}}&quot;,
+      &quot;value&quot;: &quot;{\&quot;JSONFile\&quot;:{\&quot;userid\&quot;:\&quot;adminpp@tandatanganku.com\&quot;,\&quot;alamat\&quot;:\&quot; \&quot;,\&quot;jenis_kelamin\&quot;:\&quot;laki-laki\&quot;,\&quot;kecamatan\&quot;:\&quot; \&quot;,\&quot;kelurahan\&quot;:\&quot; \&quot;,\&quot;kode-pos\&quot;:\&quot; \&quot;,\&quot;kota\&quot;:\&quot; \&quot;,\&quot;nama\&quot;:\&quot;CDI GROUP\&quot;,\&quot;tlp\&quot;:\&quot;080752000729\&quot;,\&quot;tgl_lahir\&quot;:\&quot;01-01-1990\&quot;,\&quot;provinci\&quot;:\&quot; \&quot;,\&quot;idktp\&quot;:\&quot;2389889345958899\&quot;,\&quot;tmp_lahir\&quot;:\&quot;Jakarta\&quot;,\&quot;email\&quot;:\&quot;cdigroup@tanda m\&quot;,\&quot;npwp\&quot;:\&quot; \&quot;,\&quot;redirect\&quot;:\&quot;true\&quot;}}&quot;,
       &quot;type&quot;: &quot;Text&quot;,
       &quot;contentType&quot;: &quot;&quot;
     },

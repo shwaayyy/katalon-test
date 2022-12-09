@@ -6,12 +6,12 @@
    <elementGuidId>6a7b8534-71fa-43f0-be86-212a22c23d42</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>i.gj-icon</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Batas Waktu Tandatangan'])[1]/following::i[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.gj-icon</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>1d0a644d-66b4-409a-b166-af1bef9f06d9</webElementGuid>
+      <webElementGuid>6b33f927-b423-47c0-8144-33f00aee7ab6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>gj-icon</value>
-      <webElementGuid>4cca8f8a-6a79-4537-a243-831688b84a13</webElementGuid>
+      <webElementGuid>25c279a7-13ac-42c6-8c80-72e5fb0737d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>right-icon</value>
-      <webElementGuid>884f56a9-b05e-49cf-a288-598a45aa04d2</webElementGuid>
+      <webElementGuid>ea26c388-48e1-4784-b35d-5295331ff4eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>event</value>
-      <webElementGuid>c3fbcc53-c805-4a45-afed-f815504a0b74</webElementGuid>
+      <webElementGuid>da291670-93db-407e-93e7-fe38195e5124</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[1]/div[@class=&quot;page-container&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;main-content-inner&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-sm-12 col-md-8 col-lg-6&quot;]/div[@class=&quot;card mt-2&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;border border-warning rounded p-4 m-2&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;gj-datepicker gj-datepicker-md gj-unselectable&quot;]/i[@class=&quot;gj-icon&quot;]</value>
-      <webElementGuid>6da218ce-7c80-4167-91be-301660b71578</webElementGuid>
+      <webElementGuid>65604d88-be11-420f-84ff-d6991943778e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Batas Waktu Tandatangan'])[1]/following::i[1]</value>
-      <webElementGuid>f5067d01-9b71-4065-a0fc-d9475b9bcd93</webElementGuid>
+      <webElementGuid>77ffbfab-4272-448b-9e3b-f62ae2e6f728</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Dokumen'])[1]/following::i[1]</value>
-      <webElementGuid>4e7c6007-379d-483a-b56c-a414a9ab8e82</webElementGuid>
+      <webElementGuid>7e23320c-4276-473d-bc30-c2b20e66b465</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Biaya tandatangan ditanggung pengirim'])[1]/preceding::i[1]</value>
-      <webElementGuid>bea97897-96df-4283-8119-3f5d986ae116</webElementGuid>
+      <webElementGuid>cff7c71c-3a56-4823-ae38-8bb7f4d22c95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya'])[1]/preceding::i[1]</value>
-      <webElementGuid>e7c903ed-1e64-4d5b-898f-afd401106562</webElementGuid>
+      <webElementGuid>084dfe64-2663-4d64-a466-1e995e958404</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='event']/parent::*</value>
-      <webElementGuid>b9345bea-90f0-43ab-bd0e-265ebb0a5a1f</webElementGuid>
+      <webElementGuid>ebd1f071-ed10-4972-80bb-5dadf6bb9e83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/i</value>
-      <webElementGuid>779e1c8e-5784-4d20-9914-3c423eb9e826</webElementGuid>
+      <webElementGuid>fc96bba3-bfca-4d14-bc4e-a984284bdd3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[(text() = 'event' or . = 'event')]</value>
-      <webElementGuid>11cd4a31-927b-408d-b2c2-24d1cfed3f71</webElementGuid>
+      <webElementGuid>a7ea3bc4-8d83-4d61-a293-140504317634</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

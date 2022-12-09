@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>7d35639a-b044-49ef-bcce-a3e28339b57d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='changeEmail']/div[5]/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cc9a99fd-564d-4065-8009-63531e02c5fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;changeEmail&quot;)/div[@class=&quot;checkbox checbox-switch switch-success&quot;]/label[1]/span[1]</value>
+      <webElementGuid>5e672ed8-79f7-4b63-b218-ad934d01144e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='changeEmail']/div[5]/label/span</value>
+      <webElementGuid>88d84dcf-36a5-4dc8-8f8a-7f9f55f1cf12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>f932d4e2-20d5-485d-85ff-52f748f84acf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

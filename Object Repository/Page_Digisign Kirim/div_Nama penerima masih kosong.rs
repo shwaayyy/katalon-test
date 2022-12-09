@@ -6,12 +6,12 @@
    <elementGuidId>e2311d11-eb7e-45ab-a28e-d504a184ff15</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#e_name-2</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='e_name-2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#e_name-2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>8ec493dc-93ec-4618-a114-18984f4c74fd</webElementGuid>
+      <webElementGuid>dd3f648d-19b5-49e0-914d-8ceb4276e021</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>e_name-2</value>
-      <webElementGuid>b5e3b09f-c73a-450c-820e-60e59bc533a4</webElementGuid>
+      <webElementGuid>d20aca31-38cd-4278-8151-ab9a3d51f195</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>notif</value>
-      <webElementGuid>9af3c0c3-1b36-4054-b1e5-7b86559c82dc</webElementGuid>
+      <webElementGuid>d63af25b-7e30-409c-a585-f7bc74df836c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Nama penerima masih kosong !</value>
-      <webElementGuid>5c5264d5-e524-440d-abcf-d1b906abbb51</webElementGuid>
+      <webElementGuid>868da8e1-2a57-42a4-8b1a-c9cad63f40c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;e_name-2&quot;)</value>
-      <webElementGuid>3532f102-4429-4f3e-9638-91a6eddd7c51</webElementGuid>
+      <webElementGuid>a0549100-b8f2-47ca-9df3-f99aa5c9143d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='e_name-2']</value>
-      <webElementGuid>5a19ff4e-186e-4e93-9640-c64d4f592ed3</webElementGuid>
+      <webElementGuid>92c84313-c9a3-4c4d-b954-cc448ac2ff43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama'])[2]/following::div[1]</value>
-      <webElementGuid>4178beb1-91b0-4a07-96e8-06e54172007c</webElementGuid>
+      <webElementGuid>e5edf0c5-08a6-49d9-96c0-2fed3e2331af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dibutuhkan Tandatangan'])[2]/following::div[6]</value>
-      <webElementGuid>699a0d53-2b4a-468c-8236-be950081629a</webElementGuid>
+      <webElementGuid>33714bb8-fe64-44d7-9664-a2afa31c4dea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,15 +86,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[2]/preceding::div[1]</value>
-      <webElementGuid>282c1694-4840-41ce-a0d9-661b8ff14b55</webElementGuid>
+      <webElementGuid>2f118409-5615-48b5-8127-0d834f7062a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dibutuhkan Tandatangan'])[4]/preceding::div[3]</value>
-      <webElementGuid>4a79a402-b74c-4662-9305-a2850912fdb1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email penerima masih kosong !'])[1]/preceding::div[1]</value>
+      <webElementGuid>b39177f3-f2f4-410b-b9ef-65e79fb51fd8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Nama penerima masih kosong !']/parent::*</value>
-      <webElementGuid>6ffb2d13-c4e1-4eca-b145-c5307c7c1a8a</webElementGuid>
+      <webElementGuid>ddf26cd0-5616-4e6e-90ab-e068b74f6146</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div[2]/div</value>
-      <webElementGuid>76494d1a-1a17-4874-9ec1-0a73ae86381b</webElementGuid>
+      <webElementGuid>6e4e5f20-e963-4e40-88c1-a36b3eb1a656</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'e_name-2' and (text() = 'Nama penerima masih kosong !' or . = 'Nama penerima masih kosong !')]</value>
-      <webElementGuid>4e887916-2200-44ad-8106-27ccdd22dc9e</webElementGuid>
+      <webElementGuid>22b27781-57c2-4d42-aa0c-333c66033ea5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>794fe662-5a61-47e3-9645-5cacf28dab41</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#add_re</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='add_re']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#add_re</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>bdc7fea1-b258-46df-a08f-83575e1c6512</webElementGuid>
+      <webElementGuid>53d4a09c-bbe1-45c3-bbc1-9dab6c223e97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btns btn-info ml-4</value>
-      <webElementGuid>2b0807f8-515a-4a9a-8bc9-561d7748cfc5</webElementGuid>
+      <webElementGuid>69827118-5a9b-42b2-8eb7-e04705007e31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>add_re</value>
-      <webElementGuid>9bac85fe-9636-4ba5-a488-21fd839ba3ac</webElementGuid>
+      <webElementGuid>e1373951-4e81-43ef-88ac-41f6d97a43fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Tambah Penerima </value>
-      <webElementGuid>51fd14b6-bec1-496f-98e9-cf44c6ecd8e4</webElementGuid>
+      <webElementGuid>23c09bd3-e21a-4320-8ce9-9ae5f1721806</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;add_re&quot;)</value>
-      <webElementGuid>950ea9e7-e87c-4c81-bb68-7f979fd02fe2</webElementGuid>
+      <webElementGuid>e67746e8-53b0-4ada-9bbf-d1c78ffd0458</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,15 +62,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='add_re']</value>
-      <webElementGuid>943b064e-36bd-4f80-a50a-6506202642cf</webElementGuid>
+      <webElementGuid>a3c02dd0-ade8-4948-a148-98cfff29eeae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dibutuhkan Pengecekan'])[2]/following::button[1]</value>
-      <webElementGuid>f91c9e46-f69e-4393-9a1b-5724405d5de5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dibutuhkan Tandatangan'])[2]/following::button[1]</value>
+      <webElementGuid>4ee8e0df-afc4-4992-a0fc-d511814a8d86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::button[1]</value>
-      <webElementGuid>fa8fb969-0548-44e6-91a4-c9028a07b4bd</webElementGuid>
+      <webElementGuid>cb2adfc7-dd69-4b7a-9a1d-e00527899042</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/preceding::button[1]</value>
-      <webElementGuid>583b2c29-77f8-4475-a4e2-62c7e00e89c5</webElementGuid>
+      <webElementGuid>06f75386-083b-4e77-bb0a-5686d96534e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lanjutkan'])[1]/preceding::button[2]</value>
-      <webElementGuid>6771e4ad-1794-40ab-a904-97ae74a853c7</webElementGuid>
+      <webElementGuid>b480c52c-ea46-4474-a840-c75082e4a825</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Tambah Penerima']/parent::*</value>
-      <webElementGuid>dc2b8c71-566d-4a5e-8a55-3a83a62f0676</webElementGuid>
+      <webElementGuid>5e39056f-c388-49d8-9217-8e9da0aaf1a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>4aa18106-2905-4b74-a163-605df2f9f2ab</webElementGuid>
+      <webElementGuid>7986115f-3542-4a87-a61a-0a9c0c61966e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'add_re' and (text() = ' Tambah Penerima ' or . = ' Tambah Penerima ')]</value>
-      <webElementGuid>f610737f-d049-4a24-b49f-f2d1554f7231</webElementGuid>
+      <webElementGuid>f6132678-55d9-4689-9eef-61d1952a93fa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

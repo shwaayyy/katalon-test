@@ -39,7 +39,7 @@ WebUI.click(findTestObject('Object Repository/Page_Digisign Kirim/button_Tambah 
 
 WebUI.setText(findTestObject('Object Repository/Page_Digisign Kirim/input_Nama_name-2'), 'aziz')
 
-WebUI.setText(findTestObject('Object Repository/Page_Digisign Kirim/input_Email_email-2'), 'wayyyshelby@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Page_Digisign Kirim/input_Email_email-2'), 'shwaayyy@gmail.com')
 
 WebUI.click(findTestObject('Object Repository/Page_Digisign Kirim/button_Lanjutkan'))
 

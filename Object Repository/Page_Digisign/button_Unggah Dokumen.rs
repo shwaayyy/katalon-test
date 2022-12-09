@@ -6,12 +6,12 @@
    <elementGuidId>8adaf29d-aa2d-460e-9b2f-8564493819ac</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.card-body.sbg2 > button.btn.btn-primary</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-body.sbg2 > button.btn.btn-primary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d3d41176-d9a7-4e8c-b5cb-f5c19bb521ce</webElementGuid>
+      <webElementGuid>da43ef47-bbba-4bfb-81c5-64a40601a6a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>dd8aff5a-e9c1-4075-bac2-aa74e2dca80a</webElementGuid>
+      <webElementGuid>bf3342f5-0b6c-406a-9161-81484da0ea0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>f29fe8cf-c86c-41c4-8cf8-3a530310a4df</webElementGuid>
+      <webElementGuid>dfa0cda8-7a73-499e-8d78-d76c263af59c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <type>Main</type>
       <value>
                        Unggah Dokumen                      </value>
-      <webElementGuid>de679608-130f-40a2-95fc-f38171b40ed2</webElementGuid>
+      <webElementGuid>b94e7283-6ed4-4a12-96f5-3eb125ebee31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[1]/div[@class=&quot;page-container&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;main-content-inner&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 mt-5 mb-3&quot;]/form[1]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body sbg2&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>da3dbc8c-bb0f-4398-a25a-4a9e21f2eed9</webElementGuid>
+      <webElementGuid>0fb944b6-14ca-4866-a5fc-d4b658cfb3d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>47d81395-6b2a-4a10-b858-f1b606f74fef</webElementGuid>
+      <webElementGuid>33d5259d-42a6-43fc-8afa-3d999d41d349</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>bd123b37-bf06-4108-acef-ae828c5f3eed</webElementGuid>
+      <webElementGuid>083dd7f4-2f01-4e16-b4a2-f701ce9cf989</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>8f6284b6-56ce-4524-a1b0-c37c5c5c087a</webElementGuid>
+      <webElementGuid>381f7af1-5afc-4e9e-9ff3-6065fa9b7d2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <type>Main</type>
       <value>
                        Unggah Dokumen                      </value>
-      <webElementGuid>982b9740-343a-45d7-a158-40470f9c5c2c</webElementGuid>
+      <webElementGuid>2eb99902-1b39-4c8f-99c8-26381f9757dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[1]/div[@class=&quot;page-container&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;main-content-inner&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 mt-5 mb-3&quot;]/form[1]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body sbg2&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>cbe38334-7560-47fe-92df-e90e5fc9d5e4</webElementGuid>
+      <webElementGuid>d64583d3-0909-4651-907f-f08ac65a1047</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>9498bf3d-294f-49fe-b3b6-732db4442d68</webElementGuid>
+      <webElementGuid>cca56c53-418e-4737-9f78-c05b21fa4b46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih File PDF …'])[1]/following::button[1]</value>
-      <webElementGuid>43950490-d904-496d-aeba-8a66ee878b43</webElementGuid>
+      <webElementGuid>7e17039f-5c1b-46b4-9875-892981622a77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +120,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Unggah Dokumen'])[1]/following::button[2]</value>
-      <webElementGuid>7ccccd52-c530-4e44-a35b-62296c8a2975</webElementGuid>
+      <webElementGuid>182ef335-a436-4026-8850-71be43c9fee2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +128,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='October 30, 2022 - November 29, 2022'])[1]/preceding::button[1]</value>
-      <webElementGuid>942714de-020d-47bf-888e-b39bb007d0f8</webElementGuid>
+      <webElementGuid>2027e6c2-7bdf-426c-83a7-38aff4da3ff6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,7 +136,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kotak Masuk'])[2]/preceding::button[1]</value>
-      <webElementGuid>fcf50fd7-f5b0-4a5f-95e1-85e58e52b2be</webElementGuid>
+      <webElementGuid>97890ad8-4796-464c-935f-767b571e4cb3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -144,7 +144,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>307d8d7f-563e-40a5-bb1b-c6ac12aa705f</webElementGuid>
+      <webElementGuid>ced0866b-d20a-4d18-b761-0256521d4221</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -154,6 +154,6 @@
       <value>//button[@type = 'submit' and (text() = '
                        Unggah Dokumen                      ' or . = '
                        Unggah Dokumen                      ')]</value>
-      <webElementGuid>362218bb-afa1-4d97-a548-5c42341ac087</webElementGuid>
+      <webElementGuid>13e743c5-4183-42bf-98a0-9f7047010844</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

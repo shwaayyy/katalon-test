@@ -4,19 +4,16 @@
    <name>inputfile</name>
    <tag></tag>
    <elementGuidId>763967bf-22f7-426d-9c04-6a7fead2a78a</elementGuidId>
-   <imagePath></imagePath>
    <selectorCollection>
-      <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@name='file']</value>
       </entry>
       <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

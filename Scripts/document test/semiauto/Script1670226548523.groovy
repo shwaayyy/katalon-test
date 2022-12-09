@@ -27,6 +27,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Digisign/input_LAT
 
 WebUI.sendKeys(findTestObject('Object Repository/Page_Digisign/input_LATIFAH RAMADHANA M.E_182568'), Keys.chord(Keys.ENTER))
 
+WebUI.click(findTestObject('Page_Digisign/Page_Digisign/tandatangan 2'))
+
 WebUI.click(findTestObject('Page_Digisign/span_Tandatangan'))
 
 WebUI.click(findTestObject('Page_Digisign Proses Dokumen/button_Proses'))

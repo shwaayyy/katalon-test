@@ -6,12 +6,12 @@
    <elementGuidId>148d7202-2192-49df-9e8d-b4c40fd51f61</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8bf63580-c0f7-4ac8-a767-96df9ae6f6c8</webElementGuid>
+      <webElementGuid>a39afc6f-856b-4c13-8425-ef398bf61846</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>gj-button-md</value>
-      <webElementGuid>928cd26a-990d-4678-a74c-1fd7c6d50e90</webElementGuid>
+      <webElementGuid>00dcea88-093e-4a53-9968-f91ea2a74b54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Ok</value>
-      <webElementGuid>af70c390-19d0-416a-b0f3-b6515818fe06</webElementGuid>
+      <webElementGuid>fc65eabb-db40-4001-8114-d0b925911e96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[1]/div[@class=&quot;gj-modal&quot;]/div[@class=&quot;gj-picker gj-picker-md datetimepicker gj-unselectable&quot;]/div[3]/button[@class=&quot;gj-button-md&quot;]</value>
-      <webElementGuid>0f28ba08-128e-4f71-a3b3-4a7304843bdc</webElementGuid>
+      <webElementGuid>87ca0100-d75a-4df5-93d1-bcb55d55dcc6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
-      <webElementGuid>c9f1847e-0148-4241-a365-244445f746c3</webElementGuid>
+      <webElementGuid>989b33b1-5994-4adf-8551-ecfa685a2abc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='clock'])[1]/following::button[2]</value>
-      <webElementGuid>affa7be5-b352-475a-8463-56a4a049fee2</webElementGuid>
+      <webElementGuid>3b2a2f9a-5552-4ad2-9f84-b13104860ec1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Ok']/parent::*</value>
-      <webElementGuid>1149f31c-a716-4db5-bc2e-c8266329acbb</webElementGuid>
+      <webElementGuid>a429787d-6458-470a-ba40-1371560b09d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button[2]</value>
-      <webElementGuid>0e24590e-eee9-4187-bc63-38a02336811a</webElementGuid>
+      <webElementGuid>4ee4d47c-db7c-4a3f-8972-99c216096fc7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Ok' or . = 'Ok')]</value>
-      <webElementGuid>49f71553-eaf0-4b1c-8aa5-aa318c286fc8</webElementGuid>
+      <webElementGuid>130c555b-e62c-4679-b9bb-bc877414c8e9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Gunakan verifikasi lainnya</name>
+   <tag></tag>
+   <elementGuidId>95123290-8584-415d-afa2-8c6972291685</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#secure1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='secure1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6d10c644-16f6-4092-b721-19c22d9bcbde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>secure1</value>
+      <webElementGuid>f20368d9-824a-4b11-934c-1bda5579b0d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>832483ce-5e2f-4f5e-93c7-f2ca8b228998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-sm btn-block</value>
+      <webElementGuid>38fb5e0a-2389-4f1f-a8b5-fea8aa2c3ad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        	Gunakan verifikasi lainnya                         </value>
+      <webElementGuid>15e23212-2d86-48ff-9fad-9f6d6f6c69ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;secure1&quot;)</value>
+      <webElementGuid>05f08aa3-b6a7-4e89-9e92-c6b53ec4d6f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='secure1']</value>
+      <webElementGuid>70aa5a3d-5c0e-4343-88af-888c0ca9422c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tmail']/div/div/div/div/form/div[6]/div/button</value>
+      <webElementGuid>74586882-4c94-42b6-9841-63e18e54e631</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proses Kode OTP'])[2]/following::button[1]</value>
+      <webElementGuid>1b75e3aa-a054-434d-8c40-4b384bf95115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'secure1', '&quot;', ')')])[1]/preceding::button[1]</value>
+      <webElementGuid>0b50d08c-f1f1-4a62-b899-7ceff42c2b81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div/div/div/form/div[6]/div/button</value>
+      <webElementGuid>9b9af9b5-24ed-49a5-8a16-f2356fee5cc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'secure1' and @type = 'button' and (text() = '
+                        	Gunakan verifikasi lainnya                         ' or . = '
+                        	Gunakan verifikasi lainnya                         ')]</value>
+      <webElementGuid>273abc53-a82c-4e13-a521-82047a3c4a19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

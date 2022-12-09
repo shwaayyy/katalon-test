@@ -39,8 +39,6 @@ WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Digisign Kirim/
 
 WebUI.click(findTestObject('Object Repository/Page_Digisign Kirim/button_Lanjutkan'))
 
-WebUI.navigateToUrl('https://app.tandatanganku.com/doc/sendmaildoc.html?token=kRIoMqXosi0UOPDJ1Z6aEg%3D%3D')
-
 WebUI.click(findTestObject('Object Repository/Page_Digisign Kirim/span_Paraf_fa fa-plus-circle fa-lg'))
 
 WebUI.dragAndDropByOffset(findTestObject('Object Repository/Page_Digisign Kirim/div_Paraf'), 8, 0)

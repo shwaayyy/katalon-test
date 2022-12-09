@@ -6,12 +6,12 @@
    <elementGuidId>54120d2e-7905-47f1-807a-21ff7bece387</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#send</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='send']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#send</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b3089576-f3cc-468c-8389-5052ddcaf0f2</webElementGuid>
+      <webElementGuid>7b3eb38c-795a-46a8-a87b-2e3975e37165</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary mt-2 mb-2</value>
-      <webElementGuid>96a273cd-0234-4576-8a2d-dd8404a040db</webElementGuid>
+      <webElementGuid>6f3db4a9-5f7c-4965-b173-60e33ceaaa1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>send</value>
-      <webElementGuid>adc34981-f0a1-4c94-8125-dd90aa189069</webElementGuid>
+      <webElementGuid>cd5df992-c99d-4f3f-a596-8427f77d4958</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Kirim Dokumen </value>
-      <webElementGuid>88c5b17c-17a7-4f4a-9e66-2f2bdd254622</webElementGuid>
+      <webElementGuid>38a01d8c-e768-41b3-a4a8-6494292e97e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;send&quot;)</value>
-      <webElementGuid>cfd791df-6873-44a2-a776-31c98a722d54</webElementGuid>
+      <webElementGuid>fd40f729-f2f3-4943-95b8-589f446fab3e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='send']</value>
-      <webElementGuid>fbe6e2e6-b664-4571-8fdb-d8c47c23084d</webElementGuid>
+      <webElementGuid>70afed85-6e84-4d25-9725-8ff9519d36f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='pdf-contents']/div[5]/div/button[2]</value>
-      <webElementGuid>cc6ea20f-97c5-4e27-9cfc-dfca3c4b8477</webElementGuid>
+      <webElementGuid>1350e05f-8db8-429f-a13f-aaf6a150a86d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/following::button[1]</value>
-      <webElementGuid>c7fb95da-9355-4fdf-91c9-a047d93b6aac</webElementGuid>
+      <webElementGuid>690daec4-ae6d-4c4c-ad0a-5f5adc533a84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading page ...'])[1]/following::button[2]</value>
-      <webElementGuid>ffc26f18-7e38-4aa2-982d-ab6f6918d129</webElementGuid>
+      <webElementGuid>22f0db60-c9f2-431c-9562-e722aebec253</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='GO'])[1]/preceding::button[1]</value>
-      <webElementGuid>2992b97e-2745-4451-bb86-97b20436f8eb</webElementGuid>
+      <webElementGuid>a95b99a8-80e6-4fee-97d7-fdee83f310b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='DOKUMEN'])[1]/preceding::button[2]</value>
-      <webElementGuid>37f3dc78-0de1-43ec-b536-c1155b3da1d2</webElementGuid>
+      <webElementGuid>d361763d-4c0c-4068-82a6-4a0a151c5a99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Kirim Dokumen']/parent::*</value>
-      <webElementGuid>6245f2f5-ff58-459f-8459-f67eea0bbe8b</webElementGuid>
+      <webElementGuid>a641d545-a496-4d8b-871a-f82cbbd5cc58</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/button[2]</value>
-      <webElementGuid>c4954fb2-f77c-4476-9181-25635efc21ba</webElementGuid>
+      <webElementGuid>381f8666-397c-4add-8475-0b9404865fcc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'send' and (text() = ' Kirim Dokumen ' or . = ' Kirim Dokumen ')]</value>
-      <webElementGuid>e2ed9849-63f8-4d36-a5d5-07a712585f99</webElementGuid>
+      <webElementGuid>06a25085-40ee-48d7-b7fe-70848541aa35</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

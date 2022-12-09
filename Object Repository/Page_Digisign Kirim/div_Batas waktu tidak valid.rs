@@ -6,12 +6,12 @@
    <elementGuidId>0478b21c-938e-4501-9a10-936bfc9b54cb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#swal2-content</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='swal2-content']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#swal2-content</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>44b9ebfc-676b-4009-b104-fc7dba705aac</webElementGuid>
+      <webElementGuid>1ea49542-4567-4ff0-ace5-ba73355e6a7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>swal2-content</value>
-      <webElementGuid>3550a20c-d8e4-4477-94dc-885e0269f140</webElementGuid>
+      <webElementGuid>6e35e8e5-0ac6-4a4b-b278-546ae198db6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Batas waktu tidak valid</value>
-      <webElementGuid>dc610a93-4850-49ec-95c2-b04659a9b679</webElementGuid>
+      <webElementGuid>3ce2d8fa-533d-4c82-88b8-ca5674affb7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;swal2-content&quot;)</value>
-      <webElementGuid>8893cd70-4761-40bb-ace9-68b6354255af</webElementGuid>
+      <webElementGuid>d542c6d4-49c2-4fda-add2-9dd5e4cd25e2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='swal2-content']</value>
-      <webElementGuid>189e538f-3ee5-4393-aea8-c545c792e4a2</webElementGuid>
+      <webElementGuid>3a8717dc-f2df-439d-ba3f-4268aa7baf21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ã—'])[1]/following::div[2]</value>
-      <webElementGuid>61060f3c-cfa6-4571-9ba8-8e1bd129dafc</webElementGuid>
+      <webElementGuid>e3dd4511-bce9-44ee-b9bc-ee53a79df251</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='i'])[1]/following::div[7]</value>
-      <webElementGuid>3986bb48-5252-4e1e-9a92-126e1ae8c53f</webElementGuid>
+      <webElementGuid>7cd33405-5cf9-4c28-a877-549f229b3994</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::div[4]</value>
-      <webElementGuid>e3b8e395-4b29-4eca-976a-07a4b18103c0</webElementGuid>
+      <webElementGuid>f3085533-840a-44df-adf4-a7b69bc2226b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/preceding::div[4]</value>
-      <webElementGuid>8e97fb6d-1ac0-4871-a40d-7ca6ba46aa3a</webElementGuid>
+      <webElementGuid>346b8e40-22ff-4166-b653-6a8f7e4d501e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Batas waktu tidak valid']/parent::*</value>
-      <webElementGuid>153b73ab-7563-457c-8d47-8f092784af56</webElementGuid>
+      <webElementGuid>d9986c0a-28fb-4fb0-9efe-1e26e495511a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div[2]/div</value>
-      <webElementGuid>9f0876ae-8a85-4eac-8761-36004b8c19c9</webElementGuid>
+      <webElementGuid>3e1659ec-dad2-4a50-bf37-f90859b548e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'swal2-content' and (text() = 'Batas waktu tidak valid' or . = 'Batas waktu tidak valid')]</value>
-      <webElementGuid>9143698b-f336-46d1-abd0-31a2cb165cf0</webElementGuid>
+      <webElementGuid>62ab329d-1743-4f42-8df8-fd942357bb89</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

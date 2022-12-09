@@ -6,12 +6,12 @@
    <elementGuidId>048ac309-6081-476c-b85a-03d3537a1aa5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#swal2-content</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='swal2-content']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#swal2-content</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>0d746403-f4a7-460e-b047-1de148831435</webElementGuid>
+      <webElementGuid>255db9cb-660c-44d5-b53a-c0ed7b8113f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>swal2-content</value>
-      <webElementGuid>ff66353a-a3ef-4f9f-82ba-d079d35c1b64</webElementGuid>
+      <webElementGuid>fd556746-3cce-4963-9e21-21b0e5414792</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tandatangan tidak boleh kosong</value>
-      <webElementGuid>d96fa040-e31d-4b57-9222-d9ae87b8464b</webElementGuid>
+      <webElementGuid>2d6cc97e-267e-4bf7-8124-81614a40d5ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;swal2-content&quot;)</value>
-      <webElementGuid>081106b8-9d07-4e19-bb33-a546cbd3e258</webElementGuid>
+      <webElementGuid>a9ee6243-c7ea-4327-a1cb-fb2fcec8b3a8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='swal2-content']</value>
-      <webElementGuid>7086bf5c-bc27-442c-9379-8f4197f7f51b</webElementGuid>
+      <webElementGuid>37584dd4-8f92-453e-a7ae-5e38aaf3b3ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ã—'])[1]/following::div[2]</value>
-      <webElementGuid>69a06193-3142-4fd1-ab53-149d2c2a7f78</webElementGuid>
+      <webElementGuid>baa0e4cc-4468-43ae-aa62-2308ea259444</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='i'])[1]/following::div[7]</value>
-      <webElementGuid>537a750b-5f50-467b-a3ca-3eb37a2f8f9b</webElementGuid>
+      <webElementGuid>e5b76119-e893-41b8-a951-19227abbb11e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::div[4]</value>
-      <webElementGuid>cbccaaca-a51e-4a73-b31d-567c2b31845b</webElementGuid>
+      <webElementGuid>7e5aa997-0e3a-4169-96b4-f7d4b30ce499</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[4]</value>
-      <webElementGuid>7af60c21-a0e1-496f-8dba-1d39ba0b5969</webElementGuid>
+      <webElementGuid>15ffd482-77b9-48e8-b380-bb146a7a1306</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Tandatangan tidak boleh kosong']/parent::*</value>
-      <webElementGuid>fbe5e6bd-4d83-452c-8497-9b79d88abb65</webElementGuid>
+      <webElementGuid>877d7620-3c7e-4168-a85c-3d710c09de09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div[2]/div</value>
-      <webElementGuid>38efa999-5c8f-4b52-9510-8a06c686cb84</webElementGuid>
+      <webElementGuid>0700da5c-0361-4745-b224-fc704d01ad8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'swal2-content' and (text() = 'Tandatangan tidak boleh kosong' or . = 'Tandatangan tidak boleh kosong')]</value>
-      <webElementGuid>98cbf1d4-cb7b-4de7-a427-c5ed4e8abedf</webElementGuid>
+      <webElementGuid>9adca51b-17b8-4a5e-8863-5e17e0c3ec6b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

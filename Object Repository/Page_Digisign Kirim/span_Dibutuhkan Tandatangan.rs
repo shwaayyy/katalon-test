@@ -6,12 +6,12 @@
    <elementGuidId>f9d2ccc4-00a5-4c7a-a050-56c6353883d5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#select2-ck1-container</value>
+         <key>XPATH</key>
+         <value></value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@id='select2-ck1-container']</value>
+         <key>CSS</key>
+         <value>#select2-ck1-container</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>f85da641-17e7-423d-906b-52c023d88e89</webElementGuid>
+      <webElementGuid>f91d5219-7753-4cbd-8bf0-9d6a8badf037</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>bd0db1d6-dd50-484a-947f-4ae7a50ff90a</webElementGuid>
+      <webElementGuid>b24b52ab-eb0d-40b0-b9b4-a0e67cdd042b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>select2-ck1-container</value>
-      <webElementGuid>c256c663-0436-4b1a-80d6-7e4e11db1b5d</webElementGuid>
+      <webElementGuid>c5b2f4be-64ea-4e73-b463-1687318b7716</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>title</name>
       <type>Main</type>
       <value> Dibutuhkan Tandatangan  </value>
-      <webElementGuid>c9f13af9-0db4-4f3b-82ef-679673ea2dc6</webElementGuid>
+      <webElementGuid>8f4517e6-e789-420a-ae7b-d074d0a45074</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Dibutuhkan Tandatangan  </value>
-      <webElementGuid>a82ae4f6-daaf-4cfc-9646-fd2330bf11a6</webElementGuid>
+      <webElementGuid>b545ac55-cab8-47d3-a9fc-20d1fdf11289</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select2-ck1-container&quot;)</value>
-      <webElementGuid>42e61761-d0ec-429d-aad5-3d5a2d33e35f</webElementGuid>
+      <webElementGuid>379f58c9-31c2-40ce-84f5-c32ca9fff77b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='select2-ck1-container']</value>
-      <webElementGuid>e7aa8777-0df0-4f53-ba99-5685385a2fed</webElementGuid>
+      <webElementGuid>a6038b26-36ff-4da0-8647-03d2c518e008</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::span[4]</value>
-      <webElementGuid>fb191ecb-a193-4595-842d-72941952da24</webElementGuid>
+      <webElementGuid>49bee2b4-44ae-48ca-b711-59164ab75e83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Saya'])[1]/following::span[4]</value>
-      <webElementGuid>c248b90d-bb5f-49f9-ba78-e93422af4c92</webElementGuid>
+      <webElementGuid>3317d742-1316-48e6-b15f-730d97b11ee4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Penerima'])[1]/preceding::span[3]</value>
-      <webElementGuid>7622b196-fc33-413f-909d-98db77868571</webElementGuid>
+      <webElementGuid>137f5278-6f3b-4d17-9ab9-56bfb50f151e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/preceding::span[3]</value>
-      <webElementGuid>b44767ae-8363-401e-ba79-8c11b172b972</webElementGuid>
+      <webElementGuid>6bb09493-4dc2-471f-a373-38aa4575ca94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span/span/span</value>
-      <webElementGuid>d7fa4d58-4720-4269-aa30-008ff898e992</webElementGuid>
+      <webElementGuid>cc7d3697-0aaf-491c-9f6a-573adb9c01dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'select2-ck1-container' and @title = ' Dibutuhkan Tandatangan  ' and (text() = ' Dibutuhkan Tandatangan  ' or . = ' Dibutuhkan Tandatangan  ')]</value>
-      <webElementGuid>840e3ab5-8b61-4bd4-a9fb-e19e93dadd12</webElementGuid>
+      <webElementGuid>e1a29407-d7d0-4984-ae00-52be3c746a90</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

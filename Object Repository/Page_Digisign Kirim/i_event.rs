@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>6b33f927-b423-47c0-8144-33f00aee7ab6</webElementGuid>
+      <webElementGuid>8578a037-cccb-4231-8e32-c759ed2bb707</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>gj-icon</value>
-      <webElementGuid>25c279a7-13ac-42c6-8c80-72e5fb0737d1</webElementGuid>
+      <webElementGuid>32a5f3de-2e70-4e1e-9c3b-2cce0df82800</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>role</name>
       <type>Main</type>
       <value>right-icon</value>
-      <webElementGuid>ea26c388-48e1-4784-b35d-5295331ff4eb</webElementGuid>
+      <webElementGuid>a2eac555-bb50-4155-b93e-d6e365aa7eed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>event</value>
-      <webElementGuid>da291670-93db-407e-93e7-fe38195e5124</webElementGuid>
+      <webElementGuid>a612a3ba-51cc-4dcc-94cd-0085b954cc9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[1]/div[@class=&quot;page-container&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;main-content-inner&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-sm-12 col-md-8 col-lg-6&quot;]/div[@class=&quot;card mt-2&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;border border-warning rounded p-4 m-2&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;gj-datepicker gj-datepicker-md gj-unselectable&quot;]/i[@class=&quot;gj-icon&quot;]</value>
-      <webElementGuid>65604d88-be11-420f-84ff-d6991943778e</webElementGuid>
+      <webElementGuid>78a26fd5-bea1-47bf-b0c3-27776b6026c2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Batas Waktu Tandatangan'])[1]/following::i[1]</value>
-      <webElementGuid>77ffbfab-4272-448b-9e3b-f62ae2e6f728</webElementGuid>
+      <webElementGuid>40ea58fb-bd36-4ff9-b3e1-911622be890c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Dokumen'])[1]/following::i[1]</value>
-      <webElementGuid>7e23320c-4276-473d-bc30-c2b20e66b465</webElementGuid>
+      <webElementGuid>5892bdc7-1a58-4a71-998b-fe517f8fbaf7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Biaya tandatangan ditanggung pengirim'])[1]/preceding::i[1]</value>
-      <webElementGuid>cff7c71c-3a56-4823-ae38-8bb7f4d22c95</webElementGuid>
+      <webElementGuid>4a9aa81e-1731-45fe-a266-4844f9bdded5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya'])[1]/preceding::i[1]</value>
-      <webElementGuid>084dfe64-2663-4d64-a466-1e995e958404</webElementGuid>
+      <webElementGuid>a40ff1fb-78d3-4a23-be15-0ea499d337cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='event']/parent::*</value>
-      <webElementGuid>ebd1f071-ed10-4972-80bb-5dadf6bb9e83</webElementGuid>
+      <webElementGuid>8baa43e9-cb1a-4b1f-835e-1eaa12ede4d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/i</value>
-      <webElementGuid>fc96bba3-bfca-4d14-bc4e-a984284bdd3c</webElementGuid>
+      <webElementGuid>be06d9d6-039a-4cbd-87a6-84e24c7d8fff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[(text() = 'event' or . = 'event')]</value>
-      <webElementGuid>a7ea3bc4-8d83-4d61-a293-140504317634</webElementGuid>
+      <webElementGuid>fc92464c-c382-4096-9da3-d141a9e6e869</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

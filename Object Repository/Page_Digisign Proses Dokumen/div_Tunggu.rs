@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tunggu</name>
+   <tag></tag>
+   <elementGuidId>4d812e7b-586b-48ec-9565-0548e631337a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.w-120.justify-content-center.align-items-center.text-center.mt-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='otpModal']/div/div/div[2]/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7f6797d0-f577-48db-b201-e0b1b6e3b3c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row w-120 justify-content-center align-items-center text-center mt-2</value>
+      <webElementGuid>9cab7128-75ec-481a-aeea-14852e3d7ae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Tunggu 57 Detik
+                     </value>
+      <webElementGuid>ac379814-4e68-4ddd-a81c-3ade691278dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;otpModal&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;form-horizontal&quot;]/div[@class=&quot;row w-120 justify-content-center align-items-center text-center mt-2&quot;]</value>
+      <webElementGuid>2f28da67-9f67-4fe9-b634-cecf823fef8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='otpModal']/div/div/div[2]/div[2]/div[2]</value>
+      <webElementGuid>e43389ca-8dd5-45c4-b212-1aa99fa5dcf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan OTP'])[1]/following::div[4]</value>
+      <webElementGuid>77fc9ded-3eaa-43f9-a293-12161b1b67f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[1]/following::div[7]</value>
+      <webElementGuid>f1234821-0aad-4ad3-ab5f-9242326e8fc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]</value>
+      <webElementGuid>8e7706ca-79eb-41a9-a6c8-31002ae6f6dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

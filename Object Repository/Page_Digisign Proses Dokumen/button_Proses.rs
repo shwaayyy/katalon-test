@@ -6,12 +6,12 @@
    <elementGuidId>39e40039-08a9-4d02-b518-9815a385ce53</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-info</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[13]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-info</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7c4d2396-72de-4691-bf4e-bbda2d67ad93</webElementGuid>
+      <webElementGuid>7a80fa5f-7abe-4e68-882e-a39a025f3977</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-info</value>
-      <webElementGuid>dc014d61-b06e-4c71-a10d-26b9f28aa9f4</webElementGuid>
+      <webElementGuid>9b71237d-a5fd-41da-ae7e-a02910ad5e02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d952ee69-1032-4e4e-abd0-482ccb327105</webElementGuid>
+      <webElementGuid>13d51110-4803-47e5-bc5b-8ace7ac4c1a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>proOtp()</value>
-      <webElementGuid>abb8bb0b-df96-487c-8209-8dcada3aa37e</webElementGuid>
+      <webElementGuid>3c052fae-986d-4c2a-b2e0-8498ae2864a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Proses  </value>
-      <webElementGuid>9dcfa788-55f5-4b58-934d-e9853e5fc06c</webElementGuid>
+      <webElementGuid>67a1b6e0-fcdf-4d27-9f38-b80c59a31627</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;myDiv&quot;)/nav[@class=&quot;navbar fixed-top navbar-expand-md  navbar-light bg-light&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;input-group-btn&quot;]/button[@class=&quot;btn btn-info&quot;]</value>
-      <webElementGuid>80d5889f-8ad1-4b2b-8e71-fa56a5c0f945</webElementGuid>
+      <webElementGuid>f6a7be8f-8d4b-4d02-9d61-2e66a7ff77cc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[13]</value>
-      <webElementGuid>aea5e981-302f-472b-ab7c-b581c7656227</webElementGuid>
+      <webElementGuid>14402cef-d788-44f8-8ec6-f6832d8b9124</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='myDiv']/nav/div/div/button</value>
-      <webElementGuid>e06ba408-6106-448e-8677-86988d7a1ddd</webElementGuid>
+      <webElementGuid>901b996a-7878-46a3-b4ed-724f625fc6a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='company_image_20221101070631'])[1]/following::button[1]</value>
-      <webElementGuid>36a754d0-97b5-4768-8e8e-d2a94424b31d</webElementGuid>
+      <webElementGuid>027b24d0-c65d-41e8-a8a6-b9e26c258fc9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='powered by :'])[1]/preceding::button[1]</value>
-      <webElementGuid>85d688c5-acd5-4dbe-84a0-1206ee15a75d</webElementGuid>
+      <webElementGuid>295e7648-cc5c-40cd-be92-c62daa7399e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Proses']/parent::*</value>
-      <webElementGuid>f912fda8-eeb5-4051-8619-2b62f69d95b6</webElementGuid>
+      <webElementGuid>75794410-a1d8-47e8-a5f0-d14f857fff54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//nav/div/div/button</value>
-      <webElementGuid>35b7c419-94ad-47fc-9d1e-c606ce11acbc</webElementGuid>
+      <webElementGuid>28ae69ba-4344-4028-8c82-20b526a3f17a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = ' Proses  ' or . = ' Proses  ')]</value>
-      <webElementGuid>9e0ab87f-f085-410e-9cbb-956df6a84c9b</webElementGuid>
+      <webElementGuid>1c914bf6-ea84-4dba-97d5-61bb51165e48</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

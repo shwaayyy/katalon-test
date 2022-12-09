@@ -6,12 +6,12 @@
    <elementGuidId>f28f9b03-da29-4212-8a35-3671c1295424</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#otp</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='otp']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#otp</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6056d06b-0aa2-42e8-a066-f4d5acb2c5d2</webElementGuid>
+      <webElementGuid>72d1c89a-34df-41ed-a7f1-287781d29de3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>tel</value>
-      <webElementGuid>ccc5e127-abc4-43cf-8a60-ad70b2bcf4e0</webElementGuid>
+      <webElementGuid>9c77d46d-3549-4f60-9d64-401ff5464a10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>NumOnly letterotp</value>
-      <webElementGuid>98fbf966-49ac-47e6-a186-8912b1b1d2c8</webElementGuid>
+      <webElementGuid>628b524c-1008-4807-9d52-8f2ad4392006</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>6</value>
-      <webElementGuid>43149f27-ad3a-4697-8758-218f69918f9b</webElementGuid>
+      <webElementGuid>fb69ab7a-1c62-4cba-9dbf-68add38200bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>otp</value>
-      <webElementGuid>850d677f-f661-4970-8885-9a602dacd3c6</webElementGuid>
+      <webElementGuid>5a8a4bf6-4676-49db-93e6-b3dbd88024e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>otp</value>
-      <webElementGuid>778fcf1c-4073-44ff-b776-4bcfba6bd586</webElementGuid>
+      <webElementGuid>30b8bf4e-4a9d-47d6-8851-9dcd62647942</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;otp&quot;)</value>
-      <webElementGuid>6b2d0723-950f-4809-a12c-c33599215eef</webElementGuid>
+      <webElementGuid>de347976-7a69-438a-b230-5a676566bb05</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='otp']</value>
-      <webElementGuid>9f0a609f-5503-4480-86a6-0e1d2f436cf2</webElementGuid>
+      <webElementGuid>0c6051c9-243c-454f-8424-48d1e879c746</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modotp']/input</value>
-      <webElementGuid>6f8895ed-7bd3-4a49-9dba-8fee2196c0f0</webElementGuid>
+      <webElementGuid>0c75c860-5fc2-4a8c-b065-bf737dd8fa38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/input</value>
-      <webElementGuid>3c4eab80-2246-45cd-afbf-a9df90b417dc</webElementGuid>
+      <webElementGuid>04d49ffa-5d51-4bd2-8778-2a9e3f5e68d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'tel' and @name = 'otp' and @id = 'otp']</value>
-      <webElementGuid>44d01542-b2a9-41d2-8f3d-6752e84b364a</webElementGuid>
+      <webElementGuid>5bcee840-f4b5-46e0-ad39-8f53fad731a4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

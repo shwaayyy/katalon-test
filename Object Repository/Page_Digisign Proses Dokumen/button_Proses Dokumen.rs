@@ -6,12 +6,12 @@
    <elementGuidId>a7923daf-6974-4664-af42-a394d11ab582</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#prosign</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='prosign']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#prosign</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>44cb90b9-6dca-4dd3-be33-eacf0112f649</webElementGuid>
+      <webElementGuid>4425b545-69b1-4752-a46b-6d1cacdbd7ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-success btn-block</value>
-      <webElementGuid>35541f61-44a6-471b-a910-56dbbd0ea5c3</webElementGuid>
+      <webElementGuid>e771912d-ce3d-4cc4-906e-df6a54e6d2c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f9d1336e-c16f-4188-8e48-9124f22b801c</webElementGuid>
+      <webElementGuid>ef4aeec1-f70a-4ec6-8225-0e4dc0ebd585</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>prosign</value>
-      <webElementGuid>0e568096-4641-4072-8c56-bf5e3f41633d</webElementGuid>
+      <webElementGuid>1c6d8d5b-7bf2-4321-8436-a641fd1e53ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>confirmCertificate()</value>
-      <webElementGuid>ce623e79-5c68-4649-9d4e-10b4af14773c</webElementGuid>
+      <webElementGuid>d402d332-ab4c-4787-be9a-561905250549</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <type>Main</type>
       <value>
                       Proses Dokumen  </value>
-      <webElementGuid>feea98f7-e2f5-4865-9d4c-ea833d5d8f8e</webElementGuid>
+      <webElementGuid>5f43f13e-cb5d-4ad8-98eb-3dd3647ac04f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;prosign&quot;)</value>
-      <webElementGuid>44f5041c-7fb0-4ec8-aa1d-896673a4bcd1</webElementGuid>
+      <webElementGuid>919439b0-2403-488a-93d2-94edf3546380</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='prosign']</value>
-      <webElementGuid>1a7f3eb7-78eb-4b59-9bfd-ff846a861d8c</webElementGuid>
+      <webElementGuid>3d9a3651-e44c-402f-91d8-ca7744424eee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='otpModal']/div/div/div[2]/div[3]/button</value>
-      <webElementGuid>3883a19d-a33c-4426-9d83-ca2f5cfe4f40</webElementGuid>
+      <webElementGuid>a44b390a-13ce-4b3b-8450-26d37a968ead</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[1]/preceding::button[1]</value>
-      <webElementGuid>8d062fbb-61a3-4810-94a1-c70c099af0db</webElementGuid>
+      <webElementGuid>953b7fe6-b89e-4920-b72a-b4ff33993393</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Proses Dokumen']/parent::*</value>
-      <webElementGuid>85b901cf-3c5f-4178-9dfc-66396d23de36</webElementGuid>
+      <webElementGuid>81cc0c3c-a80c-413b-8b86-2cfddbc4714e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[3]/button</value>
-      <webElementGuid>4b37864b-2f77-4149-ab00-47ad4463785e</webElementGuid>
+      <webElementGuid>0709b8a7-4586-49b9-b619-3bdacd28d788</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,6 +121,6 @@
       <value>//button[@type = 'button' and @id = 'prosign' and (text() = '
                       Proses Dokumen  ' or . = '
                       Proses Dokumen  ')]</value>
-      <webElementGuid>233f9046-17b2-4138-856e-253656b61773</webElementGuid>
+      <webElementGuid>afae82e5-a20b-4659-9baf-c18e32d6e938</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

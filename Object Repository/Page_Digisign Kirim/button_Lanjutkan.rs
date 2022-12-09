@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//button[@id='detail_doc']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5995273c-4c11-4739-a2ea-a55bf8d2cb2d</webElementGuid>
+      <webElementGuid>9b7e21c7-c490-4c91-a520-175a7734715b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btns btn-primary nextBtn</value>
-      <webElementGuid>73863ae5-ba66-413c-bab2-5650e571251f</webElementGuid>
+      <webElementGuid>ff683bc4-134e-4bf9-a3eb-f289b3347f83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>detail_doc</value>
-      <webElementGuid>b3bdfb72-6b04-40e5-a803-4c58f616f958</webElementGuid>
+      <webElementGuid>39aa992f-794a-4e98-a4e1-36499f4c9b30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Lanjutkan </value>
-      <webElementGuid>a11d3ecb-5a2a-4171-8694-fd3f4e33b87e</webElementGuid>
+      <webElementGuid>dbe0579a-a630-4753-849b-5116ad31aeab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;detail_doc&quot;)</value>
-      <webElementGuid>c031da74-1226-45a6-879d-9f218f1d830a</webElementGuid>
+      <webElementGuid>57a38750-2760-4033-9f39-cce41bc647aa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='detail_doc']</value>
-      <webElementGuid>9ad7c0aa-e9e4-4393-b09c-4e6b2961849e</webElementGuid>
+      <webElementGuid>178705dd-151a-4942-92f9-76b546762b21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/following::button[1]</value>
-      <webElementGuid>cc66e408-a4fa-4876-9f2a-1c4f254f715f</webElementGuid>
+      <webElementGuid>2d156b4b-7e64-46c5-82c4-ac91a26f78ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Penerima'])[1]/following::button[2]</value>
-      <webElementGuid>27356cf5-452d-40e6-96ac-98f9db31e3ae</webElementGuid>
+      <webElementGuid>10dc23c8-3ba3-411f-a8a7-9a1ca1e693e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Fri, Dec 09'])[1]/preceding::button[1]</value>
-      <webElementGuid>413df988-7de9-44d4-b48d-a69b7b5404fd</webElementGuid>
+      <webElementGuid>be883c21-11fe-43b3-b650-9442cbf1eaaa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='event'])[2]/preceding::button[1]</value>
-      <webElementGuid>c9884e9e-4420-491e-9fae-83280aadbc5f</webElementGuid>
+      <webElementGuid>4806f74a-b448-4fb7-8807-7d82f8a85402</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Lanjutkan']/parent::*</value>
-      <webElementGuid>60a37b1c-8b9c-4686-bc1a-10dbb8fb95fd</webElementGuid>
+      <webElementGuid>57bcc32e-4f29-47c6-9e0c-1c066d6e822d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/button[2]</value>
-      <webElementGuid>30229af5-5d14-45b5-a4f3-ff28feb382bd</webElementGuid>
+      <webElementGuid>7e879ece-f64f-4e2e-bc0f-d9692b205abb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'detail_doc' and (text() = ' Lanjutkan ' or . = ' Lanjutkan ')]</value>
-      <webElementGuid>4ee08ef6-7185-4709-a2d3-c01d8df2c557</webElementGuid>
+      <webElementGuid>f37cad91-5b48-4a1a-90d7-4cdc402e4246</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

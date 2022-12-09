@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+         <value>(//button[@type='button'])[19]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>button.swal2-confirm.swal2-styled</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,70 +22,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a39afc6f-856b-4c13-8425-ef398bf61846</webElementGuid>
+      <webElementGuid>9d302b49-49ce-43f7-bc12-9397c98396d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>24c63c34-e1e2-4704-acf8-52a8767d0aab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>gj-button-md</value>
-      <webElementGuid>00dcea88-093e-4a53-9968-f91ea2a74b54</webElementGuid>
+      <value>swal2-confirm swal2-styled</value>
+      <webElementGuid>ebcf322a-4558-4abb-a177-fb525b9f21b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Ok</value>
-      <webElementGuid>fc65eabb-db40-4001-8114-d0b925911e96</webElementGuid>
+      <value>OK</value>
+      <webElementGuid>0ea2f13f-a593-4431-81a5-ca395e92d832</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[@class=&quot;js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[1]/div[@class=&quot;gj-modal&quot;]/div[@class=&quot;gj-picker gj-picker-md datetimepicker gj-unselectable&quot;]/div[3]/button[@class=&quot;gj-button-md&quot;]</value>
-      <webElementGuid>87ca0100-d75a-4df5-93d1-bcb55d55dcc6</webElementGuid>
+      <value>/html[@class=&quot;js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths swal2-shown swal2-height-auto&quot;]/body[@class=&quot;swal2-shown swal2-height-auto&quot;]/div[@class=&quot;swal2-container swal2-center swal2-fade swal2-shown&quot;]/div[@class=&quot;swal2-popup swal2-modal swal2-show&quot;]/div[@class=&quot;swal2-actions&quot;]/button[@class=&quot;swal2-confirm swal2-styled&quot;]</value>
+      <webElementGuid>eb0699b1-389e-4225-b05c-b8407afd28d4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
-      <webElementGuid>989b33b1-5994-4adf-8551-ecfa685a2abc</webElementGuid>
+      <value>(//button[@type='button'])[19]</value>
+      <webElementGuid>7f264677-a5b7-4a92-93a1-bbd69057c5b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='clock'])[1]/following::button[2]</value>
-      <webElementGuid>3b2a2f9a-5552-4ad2-9f84-b13104860ec1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dokumen gagal dikirim.'])[1]/following::button[1]</value>
+      <webElementGuid>e2f9a991-7dc9-4539-84a4-456ed7d3770a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Ok']/parent::*</value>
-      <webElementGuid>a429787d-6458-470a-ba40-1371560b09d8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ã—'])[1]/following::button[1]</value>
+      <webElementGuid>f5d0aba0-ba97-461a-9ead-236845d84c30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
+      <webElementGuid>5f6f92c9-2d8f-4401-9cdb-78c562f6ad49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OK']/parent::*</value>
+      <webElementGuid>7d956694-238c-4c9a-99cb-4f5d8650cd2c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/button[2]</value>
-      <webElementGuid>4ee4d47c-db7c-4a3f-8972-99c216096fc7</webElementGuid>
+      <value>//div[3]/div/div[3]/button</value>
+      <webElementGuid>7e360525-4b34-4dfa-924a-c8a0a75d414e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'Ok' or . = 'Ok')]</value>
-      <webElementGuid>130c555b-e62c-4679-b9bb-bc877414c8e9</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'OK' or . = 'OK')]</value>
+      <webElementGuid>6aa7e139-7a1a-47ae-9aee-4a4346a71fb3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

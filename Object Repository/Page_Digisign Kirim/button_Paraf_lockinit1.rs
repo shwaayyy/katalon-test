@@ -6,12 +6,12 @@
    <elementGuidId>e67fd774-b15f-4940-8803-c54e65fe5e97</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#lockinit1</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='lockinit1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#lockinit1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6b91e389-5b1d-4fd6-ac0a-ce6cdab4cc82</webElementGuid>
+      <webElementGuid>0f76df7b-883a-40a8-8ff1-bd328cba0d30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>lockinit1</value>
-      <webElementGuid>cb664fdc-a74e-43a9-9cff-e2d25fbf5740</webElementGuid>
+      <webElementGuid>7b310afc-96f7-4570-aab7-aea46555872e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-warning lockinit</value>
-      <webElementGuid>4bd8fa45-3df3-409a-bdbc-430800437030</webElementGuid>
+      <webElementGuid>c0ab2956-c7c3-4535-8632-4924a4f9e724</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;lockinit1&quot;)</value>
-      <webElementGuid>7d35cbe6-4359-44b9-8dee-5e877a2a505e</webElementGuid>
+      <webElementGuid>d76788c6-031d-4ff7-84e2-570686ae0915</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='lockinit1']</value>
-      <webElementGuid>f82d4536-2f5d-4dd3-a591-79116d3ee7fc</webElementGuid>
+      <webElementGuid>18601d5d-4467-45e5-8b1b-ec27db53df34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='widgetlockinit1']/button</value>
-      <webElementGuid>6c63d728-8236-4889-be2d-23dc4614df4a</webElementGuid>
+      <webElementGuid>210a2b39-fe3f-4188-8ff1-b1a05487eb84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Paraf'])[1]/following::button[1]</value>
-      <webElementGuid>90c70e96-4e8a-4709-91a3-5566ae2abec7</webElementGuid>
+      <webElementGuid>26eb63b2-5363-4d71-98e0-9714d67fef06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading page ...'])[1]/preceding::button[2]</value>
-      <webElementGuid>04bc3087-93ce-402b-91a0-e64ceb172a06</webElementGuid>
+      <webElementGuid>9b3a27b5-2271-4dd3-86eb-948c22c61b31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/preceding::button[2]</value>
-      <webElementGuid>871a2b9a-f60b-460d-a779-9049b35dd5d6</webElementGuid>
+      <webElementGuid>98ab1928-b9fe-47f0-a4a4-4793441d1486</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[13]/div/div[2]/div/div/button</value>
-      <webElementGuid>20551419-59c5-455d-b94d-035601a17881</webElementGuid>
+      <webElementGuid>b2f26a40-222c-404f-9a41-0e718ffe6c5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'lockinit1']</value>
-      <webElementGuid>73504081-6177-4ea0-9d0f-5420b1f571a0</webElementGuid>
+      <webElementGuid>80ed508b-3e5d-44d2-b749-63b7f0421e8e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>bff1d451-9124-41c6-b2a4-ff97798169b0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.fa.fa-unlock-alt.fa-2x</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='lock1']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.fa.fa-unlock-alt.fa-2x</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ef22cb98-45d6-4a72-b0e3-535e0458da7a</webElementGuid>
+      <webElementGuid>6dcd0c9f-8bc3-4937-b0b2-8af4cd8f521a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa  fa-unlock-alt fa-2x</value>
-      <webElementGuid>f619581b-4bfc-4c07-a3b6-920b4787af61</webElementGuid>
+      <webElementGuid>52c38049-4308-407c-bc80-4d881c0f6ab9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>88e03bab-9903-4a65-b764-36209168befa</webElementGuid>
+      <webElementGuid>b5d49990-4f21-4609-8be9-326704d7c294</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;lock1&quot;)/span[@class=&quot;fa  fa-unlock-alt fa-2x&quot;]</value>
-      <webElementGuid>2604aeba-0bc7-476a-9efa-db60ee94bc75</webElementGuid>
+      <webElementGuid>763b337a-7ea9-4947-9144-87e0dccb0efd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='lock1']/span</value>
-      <webElementGuid>d860028a-8518-44aa-8cb2-d271bcec37ee</webElementGuid>
+      <webElementGuid>97d3789c-208e-4f03-8ce0-6a8903f07e15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/button/span</value>
-      <webElementGuid>ca968c3e-7e95-45fe-8c05-0ffebfd1abf7</webElementGuid>
+      <webElementGuid>436540c9-a7bb-4e0e-bd61-b236cbf1325d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

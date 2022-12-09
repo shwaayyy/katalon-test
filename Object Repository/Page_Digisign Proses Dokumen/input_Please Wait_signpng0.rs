@@ -6,12 +6,12 @@
    <elementGuidId>b32b9896-af84-4d37-acce-9f4fb7c62d6e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#signpng0</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='signpng0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#signpng0</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4e8352ae-ce80-4e6f-993f-78cc253ebe72</webElementGuid>
+      <webElementGuid>952b208f-c447-41dc-b586-8c72e495e5bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>image</value>
-      <webElementGuid>37decef3-2438-49f6-a4b4-6d3601750ddf</webElementGuid>
+      <webElementGuid>a236d00b-8a14-4b41-a668-761f4eb439be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>width</name>
       <type>Main</type>
       <value>180</value>
-      <webElementGuid>f5b826c4-bf92-423d-a2a3-c126360d482c</webElementGuid>
+      <webElementGuid>225673e7-c7f7-48ed-8b2d-15a8f9d61cca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>height</name>
       <type>Main</type>
       <value>80</value>
-      <webElementGuid>fe1617c0-54d1-4f68-b82d-5827731fa891</webElementGuid>
+      <webElementGuid>c77f8958-2fd1-40b0-ac4b-ce446c8ffc3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>sign</value>
-      <webElementGuid>662b4537-9e5e-4242-8bed-0280211fca21</webElementGuid>
+      <webElementGuid>84a84d64-19c2-4113-a622-df34b8102920</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>signpng0</value>
-      <webElementGuid>7f7216f4-ed4f-4364-9d9f-f24bede1f0d2</webElementGuid>
+      <webElementGuid>6f2e0631-ad78-44c7-ae57-99c0ec29da49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>showttd('widget0','widget-0',0)</value>
-      <webElementGuid>46312ea5-8235-45c9-ba47-f40396654934</webElementGuid>
+      <webElementGuid>20ce07ad-6553-44a3-a7e0-4cfd0e2941fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>src</name>
       <type>Main</type>
       <value>../images/signin.png</value>
-      <webElementGuid>5d1e1b59-44f4-41b5-84ff-19aca72f2abf</webElementGuid>
+      <webElementGuid>1f8fd44d-81cc-4734-9116-f2d33b99bf7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;signpng0&quot;)</value>
-      <webElementGuid>f6c4f907-1999-491c-8916-546736896658</webElementGuid>
+      <webElementGuid>4442a022-bc47-4fc0-af3e-988c2ddaa7f8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='signpng0']</value>
-      <webElementGuid>67a6cad8-006b-4667-a18e-1f7bd21ee980</webElementGuid>
+      <webElementGuid>bd65c8ed-6086-4fae-a878-a96caa947342</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='box']/input</value>
-      <webElementGuid>c11a277e-ec88-4b40-9866-46786f174c14</webElementGuid>
+      <webElementGuid>b957dd3a-8701-4bec-8d01-234ae9cafccb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>3a337e48-f3ed-411d-ad80-cb3f7ae0def2</webElementGuid>
+      <webElementGuid>26ad58fd-d3ad-450d-ba91-d92f79ef121c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'image' and @alt = 'sign' and @id = 'signpng0' and @src = '../images/signin.png']</value>
-      <webElementGuid>43136160-c8d2-4b96-8590-587e361a90c0</webElementGuid>
+      <webElementGuid>1b1956a2-df4c-46b6-ae7e-2f195d89c11f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>61948289-807c-4de4-95e8-27bec0c0690f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#otemail</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='otemail']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#otemail</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c11309b1-afaa-4102-b9c3-be7c43050a61</webElementGuid>
+      <webElementGuid>59b90322-e311-450b-93e5-0bf1179d4b76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>otemail</value>
-      <webElementGuid>b19992cc-1acb-4336-8598-9b091de451a9</webElementGuid>
+      <webElementGuid>6680a11a-0426-4ded-8f70-da9cb9bcbb57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>50e76362-20e0-4f0d-bdd3-9f0a5194abb7</webElementGuid>
+      <webElementGuid>b532c5e2-b0bb-4e0e-bf2f-da4ee549a75a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>4c4f0650-f90a-4dc9-86e9-7796673643c0</webElementGuid>
+      <webElementGuid>b00a7e8b-011c-410e-99f8-8c4ca78d1675</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>otp(path,'2')</value>
-      <webElementGuid>10ea4940-f31e-450f-9df4-6869d7153b35</webElementGuid>
+      <webElementGuid>19f04d50-6d70-4542-8226-bdd230be74dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <value>
                               	 Email
                               </value>
-      <webElementGuid>dd85075a-1954-4341-9e74-11fd66ccfb2d</webElementGuid>
+      <webElementGuid>61355435-4387-4efd-824b-4c4d796d2610</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;otemail&quot;)</value>
-      <webElementGuid>09f8fe32-1cb3-4264-af9a-09094e078483</webElementGuid>
+      <webElementGuid>5268d11a-8050-431f-ae90-fc55826b1d19</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='otemail']</value>
-      <webElementGuid>534e3a68-c166-445f-9775-de5ea20cb954</webElementGuid>
+      <webElementGuid>4680d6e0-fc80-48c1-b08c-a83e003ec5de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='otpModal']/div/div/div[2]/div[2]/div[3]/div/div/button[2]</value>
-      <webElementGuid>82119b2e-d83c-4acb-96b2-90b945c77950</webElementGuid>
+      <webElementGuid>cf1b4a8a-6ab2-4573-8923-9865f0fe4fc8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak terima, Kirim kembali OTP ?'])[1]/following::button[2]</value>
-      <webElementGuid>ee029fd8-da73-44ee-8ceb-2d21e978b78d</webElementGuid>
+      <webElementGuid>ad41b54a-8d6a-4f92-b7b0-b53ee74c29df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Proses Dokumen'])[1]/preceding::button[1]</value>
-      <webElementGuid>d4065234-3d9c-4c98-816c-1e1843779f4a</webElementGuid>
+      <webElementGuid>79e11815-dd6d-48f7-8b53-c6d81c5dc467</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[1]/preceding::button[2]</value>
-      <webElementGuid>746f1afa-7e27-486a-93f1-17cc13eb5a22</webElementGuid>
+      <webElementGuid>fa64d7e4-119e-4e1c-ad9b-e62edeec7e19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +120,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Email']/parent::*</value>
-      <webElementGuid>134b40c7-1071-4867-8805-39e05e2bb92c</webElementGuid>
+      <webElementGuid>0af5bc23-933a-4785-b684-bd6096c70f81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +128,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/button[2]</value>
-      <webElementGuid>fc27464d-f60c-4e3c-bf39-891b7bff281a</webElementGuid>
+      <webElementGuid>850a7022-767c-49c6-a64c-3bb67084824a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,6 +140,6 @@
                               ' or . = '
                               	 Email
                               ')]</value>
-      <webElementGuid>a4d2cabc-199b-4eef-a595-8cb7d80a3b39</webElementGuid>
+      <webElementGuid>66da4b7c-9a96-4220-a4af-e747b5aca647</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sign Here_ui-resizable-handle ui-resiza_f3e899</name>
+   <tag></tag>
+   <elementGuidId>52d4f3db-1c17-4731-bd52-0a03f27fe97d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='img-1']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-resizable-handle.ui-resizable-se.ui-icon.ui-icon-gripsmall-diagonal-se</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6e29b8ff-0eb5-4be0-a224-05d8dfd5e836</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se</value>
+      <webElementGuid>3edeac04-553a-4060-b3e6-0e0e5456c0e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;img-1&quot;)/div[@class=&quot;ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se&quot;]</value>
+      <webElementGuid>1cf563a6-8878-417a-8e5a-e90012b2523e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='img-1']/div[2]</value>
+      <webElementGuid>81ba4bbf-6992-4cb5-8c1f-187c0cf89354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>6df211fb-0bff-41bc-957d-376c0079d9ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

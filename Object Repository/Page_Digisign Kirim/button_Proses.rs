@@ -6,12 +6,12 @@
    <elementGuidId>e687bbbf-6176-489d-a292-46d4dbe0eb69</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#pros</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='pros']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pros</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>baae9274-1ac5-45db-ade5-e9a80a66d320</webElementGuid>
+      <webElementGuid>c90f9902-7629-4ed1-b86f-b6302cca873e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e45400b4-da8c-4bd3-a151-915c92df7839</webElementGuid>
+      <webElementGuid>5714cdcd-7461-4289-9a20-2eba92558f88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-success</value>
-      <webElementGuid>28de498e-22ec-4954-99ed-aadfc4e15219</webElementGuid>
+      <webElementGuid>11d137ce-f199-4027-b12f-ad352d704202</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pros</value>
-      <webElementGuid>5e5ce996-ae90-48b3-86c6-206b18a02f91</webElementGuid>
+      <webElementGuid>fe1d9c31-a60b-4ad4-ab7d-24e40eb90d73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Proses  </value>
-      <webElementGuid>dce70ef4-c0e5-44e9-a053-1702b756b751</webElementGuid>
+      <webElementGuid>f988a097-64f5-4e1a-a45e-6d1c5ca2207b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pros&quot;)</value>
-      <webElementGuid>7b01216e-193e-4cd9-ae8f-99fcb163a9af</webElementGuid>
+      <webElementGuid>116869bb-0ade-4d22-b4df-350829645192</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='pros']</value>
-      <webElementGuid>41123dd8-20ed-46a5-933c-5bec6a62b593</webElementGuid>
+      <webElementGuid>d95fe07e-6667-4032-b840-803d436068a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='foots']/button[2]</value>
-      <webElementGuid>78c55512-7c74-4e94-823b-27f310951be7</webElementGuid>
+      <webElementGuid>e6d50f17-51b2-45a5-b70c-22cad2bf962a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,23 +86,23 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/following::button[1]</value>
-      <webElementGuid>fe1a6af4-5273-4f43-b39b-e3269ea38114</webElementGuid>
+      <webElementGuid>d3f13289-8d21-49c0-a47a-4aa3ce4d6621</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tandatangan:'])[1]/following::button[2]</value>
-      <webElementGuid>fd5bbeb0-2844-4c62-bd8a-5ec63b0e9235</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paraf:'])[1]/following::button[2]</value>
+      <webElementGuid>d3b01f9e-5513-48cd-a578-4b789cbf8be1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Email Tandatangan :'])[1]/preceding::button[1]</value>
-      <webElementGuid>a9074b62-3d55-4610-b0d5-975f3d0d4475</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Email Paraf :'])[1]/preceding::button[1]</value>
+      <webElementGuid>947a5a5b-8bf3-40e0-8251-93a6399a800f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Email'])[1]/preceding::button[1]</value>
-      <webElementGuid>f3909eaf-9495-4d31-a925-57a5fa71dd86</webElementGuid>
+      <webElementGuid>e31e8977-0330-4cfd-9dd3-1a0fce95bf72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Proses']/parent::*</value>
-      <webElementGuid>12b20421-8821-4a66-b9bb-d02bef9c864d</webElementGuid>
+      <webElementGuid>bf7d3a93-77a3-493a-ad49-6a91a7d4165f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[15]/div/div/div[2]/button[2]</value>
-      <webElementGuid>e42c3b07-a32f-4e9a-8744-67674ec490a0</webElementGuid>
+      <webElementGuid>f08dfd1c-c81e-4826-9843-9338854aff2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'pros' and (text() = ' Proses  ' or . = ' Proses  ')]</value>
-      <webElementGuid>2a642422-9a7e-4853-9c8d-efc60d4d6500</webElementGuid>
+      <webElementGuid>d1be1071-501f-4efb-bc40-57c643ee06f4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

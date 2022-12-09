@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Tidak</name>
+   <tag></tag>
+   <elementGuidId>d871b6da-97e1-41cf-9b4a-ccd9dc2ec390</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modreason']/div[2]/div/div[2]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.icheck-danger > label.form-check-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>93cb78c1-1fa7-4d87-843a-fd2e0c1ceec2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check-label</value>
+      <webElementGuid>8ee2e7a4-c128-40d0-972c-5856f75bff30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>p2</value>
+      <webElementGuid>395c2598-3fe6-4daa-b421-9d623a5d277e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tidak </value>
+      <webElementGuid>883eb0ce-ad6f-4e16-a2df-808d2773d0a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modreason&quot;)/div[@class=&quot;radio&quot;]/div[@class=&quot;row w-120 justify-content-center align-items-center mb-2&quot;]/div[@class=&quot;p-2&quot;]/div[@class=&quot;icheck-danger&quot;]/label[@class=&quot;form-check-label&quot;]</value>
+      <webElementGuid>9920995f-7926-4e5f-8633-3322b5070107</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modreason']/div[2]/div/div[2]/div/label</value>
+      <webElementGuid>794f5941-98af-4b63-ab7e-1f1946586949</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iya'])[1]/following::label[1]</value>
+      <webElementGuid>c1681163-e4d7-44ec-b172-9cd80b0eadcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='telah membaca, memahami, dan menyetujui'])[1]/following::label[2]</value>
+      <webElementGuid>2516037d-983c-4d8f-a615-774c884b1bac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan OTP'])[1]/preceding::label[1]</value>
+      <webElementGuid>f5ce405f-cd75-4685-a0fe-0bc2d438eeda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak terima, Kirim kembali OTP ?'])[1]/preceding::label[2]</value>
+      <webElementGuid>c707c11b-7e86-4506-afd4-a4b91f05cb75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tidak']/parent::*</value>
+      <webElementGuid>924440de-ba62-4f02-983e-95e0496448c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label</value>
+      <webElementGuid>3a708c3e-d6b3-4a7c-99a6-8cc0931447e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Tidak ' or . = ' Tidak ')]</value>
+      <webElementGuid>44c90db3-7dd6-412b-8ed5-76786033ac5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

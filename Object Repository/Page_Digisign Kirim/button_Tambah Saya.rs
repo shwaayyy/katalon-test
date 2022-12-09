@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ec4ec2b1-163c-4543-8259-d9aec2a29ec9</webElementGuid>
+      <webElementGuid>62296b9a-ee52-4f85-829d-d8b89cd35a9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btns btn-secondary mb-1</value>
-      <webElementGuid>92c39081-a9fc-416c-b09f-098de0ec9d4d</webElementGuid>
+      <webElementGuid>cb4d898e-49b2-490d-9dfc-64cf88d1bfc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>add_me</value>
-      <webElementGuid>ed7be1bd-fc4d-45da-bd35-1a1de3fe7cd5</webElementGuid>
+      <webElementGuid>e1ab86ed-0538-4fe9-93ad-09c998b1bb24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Tambah Saya </value>
-      <webElementGuid>fab3bb06-4bb9-4e9a-955d-8c204dff3015</webElementGuid>
+      <webElementGuid>dcb1f397-688b-48de-903f-7b41359474e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;add_me&quot;)</value>
-      <webElementGuid>31ad8fd2-c882-426f-8201-8824a71661b5</webElementGuid>
+      <webElementGuid>ee4783c5-3c4a-4a63-a439-e359e595d773</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='add_me']</value>
-      <webElementGuid>0c1e153c-b129-432b-bef1-f0630e855186</webElementGuid>
+      <webElementGuid>e4b219f2-304e-4698-a622-1d37f5549c91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama'])[1]/following::button[1]</value>
-      <webElementGuid>58205044-7129-4a43-9068-e135a5333286</webElementGuid>
+      <webElementGuid>f30973bd-30c2-42bc-b655-d58fe0b6f1e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Penerima'])[1]/following::button[1]</value>
-      <webElementGuid>f7c83fd6-2d8f-4ad9-bd61-bdf27d81b3a4</webElementGuid>
+      <webElementGuid>474af4eb-694f-4882-a14e-475a6583db99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::button[1]</value>
-      <webElementGuid>029f4d5f-0281-4b13-9496-d3b60259f5ab</webElementGuid>
+      <webElementGuid>59e725ab-6410-45d7-b1e1-71e631a19321</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dibutuhkan Tandatangan'])[2]/preceding::button[1]</value>
-      <webElementGuid>b0420516-d3d7-4168-b3cb-67300732c307</webElementGuid>
+      <webElementGuid>36432917-8e0f-44fe-aeed-f3838685ad2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Tambah Saya']/parent::*</value>
-      <webElementGuid>36c0dff3-df74-41f6-a3d9-a36e89ca55fe</webElementGuid>
+      <webElementGuid>7212ceba-a7f4-4716-bcc1-ce200969d445</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button</value>
-      <webElementGuid>5bc87ea1-0591-4ba8-8cf0-e138ddc5337e</webElementGuid>
+      <webElementGuid>96193ef7-46b0-4e26-a243-9e7eeb09ecd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'add_me' and (text() = ' Tambah Saya ' or . = ' Tambah Saya ')]</value>
-      <webElementGuid>c1ab610f-34a9-49fe-bbe5-ee2d5400be22</webElementGuid>
+      <webElementGuid>777b1ecd-7d1b-45c1-8334-82ad344a8c03</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

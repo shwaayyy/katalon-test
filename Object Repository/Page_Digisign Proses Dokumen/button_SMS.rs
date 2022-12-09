@@ -6,12 +6,12 @@
    <elementGuidId>2c02d5ff-800a-43ca-ba02-10a192560502</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#btnotp</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='btnotp']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnotp</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b3d81716-2296-4902-a3b2-0de5cc04faa0</webElementGuid>
+      <webElementGuid>003a28c0-5aa9-45f0-955e-bed84190306b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btnotp</value>
-      <webElementGuid>eb61d0f6-3ebb-43be-aee2-46c7609b633d</webElementGuid>
+      <webElementGuid>5685b8ed-4bdd-49c6-8aa6-259737e8c5e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7fa8c575-f531-4357-8e5c-665ab109891f</webElementGuid>
+      <webElementGuid>a3a4b26f-831a-45a8-9bef-4442d59d4ddb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-info</value>
-      <webElementGuid>1a86e953-2a63-423a-a95c-dd772571d1f8</webElementGuid>
+      <webElementGuid>5a33214e-5054-44fd-adbe-21311b8a473d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>otp(path,'1')</value>
-      <webElementGuid>08badb09-d8cc-48eb-a7c8-974235da20d9</webElementGuid>
+      <webElementGuid>dbbddc32-51bb-460d-990a-da471aff2bc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <value>
                               	 SMS
                               </value>
-      <webElementGuid>5a133f97-9f1f-4402-b1c3-dcbe519dd321</webElementGuid>
+      <webElementGuid>4967a1de-7554-4db7-9c34-5a5bf9466ad7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btnotp&quot;)</value>
-      <webElementGuid>09c49234-f26c-416b-b701-b03fb4075580</webElementGuid>
+      <webElementGuid>22fd7105-a242-4db0-bdde-8df04298b801</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='btnotp']</value>
-      <webElementGuid>7b7e4b10-c7b5-4c46-9b5b-e25798ddbb8b</webElementGuid>
+      <webElementGuid>f94edb10-c30f-43cb-9417-8c00e923a494</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='otpModal']/div/div/div[2]/div[2]/div[3]/div/div/button</value>
-      <webElementGuid>b7b729e7-2f95-4d08-8ad4-341f8995a241</webElementGuid>
+      <webElementGuid>30647488-25b0-4ca9-b67d-76dc75bcb416</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak terima, Kirim kembali OTP ?'])[1]/following::button[1]</value>
-      <webElementGuid>374bf386-c8de-47eb-ae5b-83b22ecf37ae</webElementGuid>
+      <webElementGuid>3b51e0e7-20ed-4c65-a0e3-c0a27a3094e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan OTP'])[1]/following::button[1]</value>
-      <webElementGuid>3e9043d7-421e-4df3-ae1f-a84ae5a013d5</webElementGuid>
+      <webElementGuid>318fbbcd-b6e5-40e1-a1ac-f9b0a3140f8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Proses Dokumen'])[1]/preceding::button[2]</value>
-      <webElementGuid>f0a2da39-db38-42cc-ab22-e9dc3d9d1f8d</webElementGuid>
+      <webElementGuid>ed6b3914-fa40-41d2-b845-5a6cf05d2e74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +120,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='SMS']/parent::*</value>
-      <webElementGuid>5f7681cf-04c1-494e-bfc4-1e5bb9bffb6a</webElementGuid>
+      <webElementGuid>f4cb057e-6f16-4f77-b684-22fc36a05b1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +128,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/button</value>
-      <webElementGuid>192c6923-643a-4b44-b00e-f1d2cf998103</webElementGuid>
+      <webElementGuid>20bd72a1-ffcb-4532-9d23-d6b964a9e876</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,6 +140,6 @@
                               ' or . = '
                               	 SMS
                               ')]</value>
-      <webElementGuid>2f0cbc72-77dd-4970-803d-47e0f32d18f6</webElementGuid>
+      <webElementGuid>c3f367cf-b1cc-4b3d-b235-23b6f2be770f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

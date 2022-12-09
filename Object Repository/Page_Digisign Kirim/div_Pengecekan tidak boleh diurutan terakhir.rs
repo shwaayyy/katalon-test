@@ -6,12 +6,12 @@
    <elementGuidId>68e570f9-8fea-4aea-b520-cab3b469f4eb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#swal2-content</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='swal2-content']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#swal2-content</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>35ff9751-5c6b-43d7-bd93-5cb46e85c2ef</webElementGuid>
+      <webElementGuid>8fc3fcff-36eb-4aec-9917-03ca98d1f0c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>swal2-content</value>
-      <webElementGuid>f6705076-8486-47c3-a8c2-4b5e99f24f51</webElementGuid>
+      <webElementGuid>a5613653-c44e-40eb-a784-00fdec3669db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pengecekan tidak boleh diurutan terakhir.</value>
-      <webElementGuid>b4f9bea9-92e6-421c-99ec-b9d5b1276267</webElementGuid>
+      <webElementGuid>f1887585-4c54-4209-aa23-b7935250c410</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;swal2-content&quot;)</value>
-      <webElementGuid>7d815e2c-ead5-43f2-9695-c7c86e0f642a</webElementGuid>
+      <webElementGuid>027a5866-d9e5-46c8-8407-8d67fb741dea</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='swal2-content']</value>
-      <webElementGuid>08e16d0f-84fd-493f-8b78-3e3753adaf81</webElementGuid>
+      <webElementGuid>dc9aceef-34c9-467f-ab8b-496c2d640407</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ã—'])[1]/following::div[2]</value>
-      <webElementGuid>79f8c18f-742d-4962-865e-d726ec0e8155</webElementGuid>
+      <webElementGuid>c6e82bda-7547-4eb0-a7f0-7e620b202e23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='i'])[1]/following::div[7]</value>
-      <webElementGuid>787a6ddc-85e0-4612-9536-74676a42f89d</webElementGuid>
+      <webElementGuid>922f2f65-8865-41f8-9cbf-168acc40ac17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::div[4]</value>
-      <webElementGuid>cd976c09-2b05-497b-96e5-5f34ede733a9</webElementGuid>
+      <webElementGuid>97d6f834-6251-4f3c-a985-94ff3de760b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/preceding::div[4]</value>
-      <webElementGuid>576a3059-d978-4db6-9b6b-b3fdb09423f5</webElementGuid>
+      <webElementGuid>d52b61cd-38cf-4cf4-a1c7-242953e57c1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Pengecekan tidak boleh diurutan terakhir.']/parent::*</value>
-      <webElementGuid>d2b217e5-8afc-4fc1-8c39-dc91f9e648d3</webElementGuid>
+      <webElementGuid>cc915298-add2-4a94-b66d-3e1653ce342c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div[2]/div</value>
-      <webElementGuid>5b31db3b-fd3e-426d-bcc1-f91b096a0fb8</webElementGuid>
+      <webElementGuid>cafca1ac-e10f-4eb6-bc64-7fc6ce43ecdb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'swal2-content' and (text() = 'Pengecekan tidak boleh diurutan terakhir.' or . = 'Pengecekan tidak boleh diurutan terakhir.')]</value>
-      <webElementGuid>bea9871d-2f9e-443f-bf03-26fd55147f51</webElementGuid>
+      <webElementGuid>699631f5-28e7-4eff-be68-f39558f74b22</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

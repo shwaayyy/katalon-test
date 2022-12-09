@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>bff533ab-9cfe-4da3-a13e-8aa2434a8f02</webElementGuid>
+      <webElementGuid>f8c15691-4c8c-461d-8ed1-7b3610d12e9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pd</value>
-      <webElementGuid>1a9aaca1-55bb-4cfa-a68b-c19f79b4c92f</webElementGuid>
+      <webElementGuid>9fb4b289-c2fa-47a1-b7f0-b2952456f3ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>27bf6552-3a4f-4682-a38a-7f5b4d69d134</webElementGuid>
+      <webElementGuid>636df4b8-ba69-4d07-9305-e008dc7771bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>dbb96530-7920-4177-acca-9d464f752afb</webElementGuid>
+      <webElementGuid>d746a244-b7cc-4cfe-98bc-12c3a8eaae9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>770465</value>
-      <webElementGuid>83660a9a-6f58-4607-a223-44a94d3b1258</webElementGuid>
+      <webElementGuid>9a0e69b6-4e32-4591-afa6-984e837f2e28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>7d2c86c8-cdef-4bd9-acab-6fa6894547ec</webElementGuid>
+      <webElementGuid>e8a615e7-0e24-43bf-bb87-398cf8027cdf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pd&quot;)</value>
-      <webElementGuid>b0c24c51-6db7-422a-8be3-adcc4d05c3c0</webElementGuid>
+      <webElementGuid>59fcff44-441a-4cd4-a22b-8a590803752e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='pd']</value>
-      <webElementGuid>4e55709b-de92-4f75-b16a-e47a3119e033</webElementGuid>
+      <webElementGuid>1c0bbe53-480a-4895-a907-9ab71228eb8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='pdform']/input</value>
-      <webElementGuid>4d6ebcf3-88d2-492c-b91b-b2ec8fb7ee46</webElementGuid>
+      <webElementGuid>0e4e2d15-e630-4e70-b551-6974360bb13e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>1f6bf3dd-82bb-46e6-a33f-210a55481fd9</webElementGuid>
+      <webElementGuid>0a8b9a6e-ce92-4757-b23d-8263fbadb2d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'pd' and @type = 'password' and @name = '770465' and @placeholder = 'password']</value>
-      <webElementGuid>1081220e-6b2d-42d8-acf0-ddae685c9d2f</webElementGuid>
+      <webElementGuid>dffaa6fd-22b8-42f5-9d36-cd793c5ebe4d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>e0a0e8c4-3805-46d5-baa2-90ac61082e9e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#imginit-1</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='imginit-1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#imginit-1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>a1aa3e39-a244-4572-bbfa-78eddb3ee55b</webElementGuid>
+      <webElementGuid>974d4bf2-71ca-4c59-95a0-8c40834ed890</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>imginit-1</value>
-      <webElementGuid>4075f701-ca05-4fe2-bde5-41e6f20e3471</webElementGuid>
+      <webElementGuid>d163b8a1-c937-4957-9f96-b69e44416995</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fooinit green</value>
-      <webElementGuid>b31d6d2c-c6a3-4a20-bb80-76fa80437b08</webElementGuid>
+      <webElementGuid>d994a5ab-ea83-427a-a19a-91afe4651597</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Paraf</value>
-      <webElementGuid>105c3d95-6ad2-48f5-b153-0680676b6fcd</webElementGuid>
+      <webElementGuid>195287e4-4ddd-43c8-826b-7f6828931049</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;imginit-1&quot;)</value>
-      <webElementGuid>5699e077-bc79-4287-a8b8-a792611259f8</webElementGuid>
+      <webElementGuid>4d429fb4-0cd0-4ed9-8ae7-f5a7a4e6e46e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='imginit-1']</value>
-      <webElementGuid>b31a8fea-f84f-42d9-953e-0a25d3b1908c</webElementGuid>
+      <webElementGuid>3ddfeec5-559e-4814-9d66-b8068e81b6fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='widgetlockinit1']/div</value>
-      <webElementGuid>db3d36b7-8573-4683-bfb0-2dec3d144b94</webElementGuid>
+      <webElementGuid>b922ac8b-f62f-458d-9ff1-33d66325464c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading page ...'])[1]/preceding::div[3]</value>
-      <webElementGuid>c073f775-43ee-4ec1-a00e-0c693c04cc2a</webElementGuid>
+      <webElementGuid>871e78de-469d-4fb3-89b2-dcb8646361b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[13]/div/div[2]/div/div/div</value>
-      <webElementGuid>06dc7c64-9c33-4070-b756-52acba643880</webElementGuid>
+      <webElementGuid>d95cf3d8-f27b-4792-9d43-4b45078a62ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'imginit-1' and (text() = 'Paraf' or . = 'Paraf')]</value>
-      <webElementGuid>7c1a9913-5821-4251-b9b5-df9152ccbe1c</webElementGuid>
+      <webElementGuid>7dfd07bc-3463-45b9-9aff-3ad9c67854c2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

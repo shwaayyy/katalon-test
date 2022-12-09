@@ -6,12 +6,12 @@
    <elementGuidId>5da44e43-8c28-475f-8cf8-6190cccea323</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#img-1</value>
+         <key>XPATH</key>
+         <value></value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='img-1']</value>
+         <key>CSS</key>
+         <value>#img-1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>d0b16cfb-c7af-44f6-babb-5823905bc27e</webElementGuid>
+      <webElementGuid>81f49b54-deab-455b-ae99-d29857542a87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>img-1</value>
-      <webElementGuid>5e4f58b4-e844-4f60-97a1-9cb2e780eded</webElementGuid>
+      <webElementGuid>1270e3ad-d3ab-40e6-8218-9c72e08575ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>foo blue ui-resizable</value>
-      <webElementGuid>578fdeb7-aca7-400d-ba6c-f1921e74ea7f</webElementGuid>
+      <webElementGuid>f1dc249e-9b68-42cd-881d-064cb6a0d31d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign Here</value>
-      <webElementGuid>1b3783b1-0555-4198-a7b8-6f8be308c835</webElementGuid>
+      <webElementGuid>05b2252b-e822-46ca-ba60-c089c21717f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;img-1&quot;)</value>
-      <webElementGuid>7768f9e5-db9e-45a5-bea1-3798ce7c5977</webElementGuid>
+      <webElementGuid>5839b8d0-1dfd-4132-bf6e-fe2780f956e1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='img-1']</value>
-      <webElementGuid>112fb52c-4777-41f7-bd23-c2fd7befad8b</webElementGuid>
+      <webElementGuid>52119138-c5c9-4297-8235-3be1c11c7dd1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='widgetlock1']/div</value>
-      <webElementGuid>86346d4f-ab71-4071-8365-5377654f8fbd</webElementGuid>
+      <webElementGuid>db1b115c-c600-44fe-9104-de9f5712fa4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading page ...'])[1]/preceding::div[4]</value>
-      <webElementGuid>ce3f57ae-86f4-4178-940a-96c075fd1c83</webElementGuid>
+      <webElementGuid>5ae84a0e-f3c3-4e79-bdda-50bc88e4a4e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[13]/div/div[2]/div/div/div</value>
-      <webElementGuid>321d3cbd-932b-4552-94de-60861dfd7901</webElementGuid>
+      <webElementGuid>12a1db68-cc7a-4e20-916c-629585190a91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'img-1' and (text() = 'Sign Here' or . = 'Sign Here')]</value>
-      <webElementGuid>3bd36be5-6041-4c4c-9883-741f9a829add</webElementGuid>
+      <webElementGuid>a1214740-7d38-45ed-8559-1aaf2ff7812f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

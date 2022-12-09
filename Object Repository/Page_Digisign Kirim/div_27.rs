@@ -6,12 +6,12 @@
    <elementGuidId>5c2568d5-bf7b-480e-9f2d-88c98576d438</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[2]/following::div[27]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>4eccabc6-bdde-49c3-9612-b050531ac2b2</webElementGuid>
+      <webElementGuid>c07d2899-e22c-418e-a3eb-3746e8462f8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>27</value>
-      <webElementGuid>fcea4e47-a0e9-490b-9709-293a1f0503b3</webElementGuid>
+      <webElementGuid>13d05d90-706b-4f2d-9fa1-1188e10f473c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[1]/div[@class=&quot;gj-modal&quot;]/div[@class=&quot;gj-picker gj-picker-md datetimepicker gj-unselectable&quot;]/div[2]/table[1]/tbody[1]/tr[5]/td[@class=&quot;current-month gj-cursor-pointer&quot;]/div[1]</value>
-      <webElementGuid>2666dca5-9eaf-48ed-8f79-2d75ccec12f2</webElementGuid>
+      <webElementGuid>2b1c87b4-958e-4286-94df-623a466e8b8b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[2]/following::div[27]</value>
-      <webElementGuid>c116af56-fead-44f2-bd9b-a77e0f702e97</webElementGuid>
+      <webElementGuid>a3db35eb-bbc0-482d-a605-4232183c0f31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,23 +54,23 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[1]/following::div[28]</value>
-      <webElementGuid>2c834149-68e3-4d66-b234-3e084277b920</webElementGuid>
+      <webElementGuid>2bd7ec02-889b-448c-ac9a-ba11aea166f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[5]</value>
-      <webElementGuid>f0717a73-35ab-4329-a5c3-318932702df4</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[4]</value>
+      <webElementGuid>0dfa19de-eed2-448e-b9a1-b236f464be94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok'])[1]/preceding::div[5]</value>
-      <webElementGuid>952d3496-e276-44d4-a909-98789e46acd2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok'])[1]/preceding::div[4]</value>
+      <webElementGuid>2ee5abe5-badd-4054-8709-af2efb27517f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,15 +78,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='27']/parent::*</value>
-      <webElementGuid>1dd9f8ae-9f32-4439-b31e-8a434da1bb22</webElementGuid>
+      <webElementGuid>b7ef1cf8-54c3-4c87-9818-1104ec7fdc92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[5]/td[5]/div</value>
-      <webElementGuid>26efe562-2ab1-4b0b-8cf5-e06f341bc28a</webElementGuid>
+      <value>//tr[5]/td/div</value>
+      <webElementGuid>61e329de-7f4b-4a51-9738-f271cbdcf792</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '27' or . = '27')]</value>
-      <webElementGuid>fd748c71-44e5-49bf-8d03-d3fbf187e568</webElementGuid>
+      <webElementGuid>d3904f5d-6b9b-489b-9582-30bc7d260c19</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

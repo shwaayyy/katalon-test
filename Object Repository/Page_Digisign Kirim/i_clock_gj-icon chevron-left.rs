@@ -6,12 +6,12 @@
    <elementGuidId>6e0bcc48-2d00-4707-8ecd-04845e61ed4e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>i.gj-icon.chevron-left</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[2]/div/div[2]/div/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.gj-icon.chevron-left</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>c9faf034-47dd-4d70-9d95-102fb17c2e41</webElementGuid>
+      <webElementGuid>96fe48e8-0c09-47b1-8fa3-3102d2126044</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>gj-icon chevron-left</value>
-      <webElementGuid>4d5e2ff7-0889-4604-a7bf-32a42c32e21d</webElementGuid>
+      <webElementGuid>9319e149-9a69-426e-97fc-d2a4f9f9cebe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[1]/div[@class=&quot;gj-modal&quot;]/div[@class=&quot;gj-picker gj-picker-md datetimepicker gj-unselectable&quot;]/div[2]/div[1]/div[1]/i[@class=&quot;gj-icon chevron-left&quot;]</value>
-      <webElementGuid>e8a0977e-dcd2-48a8-b40d-dc834c32514b</webElementGuid>
+      <webElementGuid>e0475f2a-7f12-457f-8250-11a9e7f336c2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,6 +46,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div/div/i</value>
-      <webElementGuid>0588cf5f-32e8-43c5-a258-abfcef1f9b2d</webElementGuid>
+      <webElementGuid>07d30186-16b8-40a9-8cc0-29eb7706b216</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

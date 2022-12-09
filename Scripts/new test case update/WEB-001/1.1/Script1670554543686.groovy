@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser(GlobalVariable.BASE_URL)
 
-WebUI.openBrowser(GlobalVariable.BASE_URL)
+WebUI.maximizeWindow(FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Object Repository/Page_Digisign/input_to continue to Digisign_uname'), 'ditest6@tandatanganku.com')
 

@@ -6,12 +6,12 @@
    <elementGuidId>9e919372-85d1-4c31-ac94-83f37e44fa44</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#e_email-1</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='e_email-1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#e_email-1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>3309def5-8d68-443d-ad04-d2a5adc8fad0</webElementGuid>
+      <webElementGuid>4ab4d7d6-957b-450d-b148-1f7d6aae4804</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>e_email-1</value>
-      <webElementGuid>072149c0-912b-484c-9a26-ec0aefd79a74</webElementGuid>
+      <webElementGuid>194e33ac-6d4a-41e7-b012-7071bf65f118</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>notif</value>
-      <webElementGuid>17e92f40-112e-4c1b-b691-56dfb5851f56</webElementGuid>
+      <webElementGuid>fa0356c5-895e-4343-8edc-b823f86734df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Format Email salah !</value>
-      <webElementGuid>f716a9c1-ac9c-4ba2-ae94-abdb4f143c74</webElementGuid>
+      <webElementGuid>49aebce4-1ac9-4582-bea3-a201003f53df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;e_email-1&quot;)</value>
-      <webElementGuid>f85734ce-942c-4d2e-a934-a41f7ef0a2f0</webElementGuid>
+      <webElementGuid>2e71b11e-5ed9-48a3-990f-4927920de2a4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='e_email-1']</value>
-      <webElementGuid>1513b602-a4c4-489b-8652-8594a3bad874</webElementGuid>
+      <webElementGuid>b67be690-1854-473c-a4fa-e2f9d7122fdd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[1]</value>
-      <webElementGuid>40b4e511-06b1-41d9-8aea-ee67db3eb0d3</webElementGuid>
+      <webElementGuid>1c2d830e-a817-450d-97cd-bda3ffa2f6b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Saya'])[1]/following::div[2]</value>
-      <webElementGuid>c07c6d45-b4cf-4736-a6b9-3ee88c89a0b1</webElementGuid>
+      <webElementGuid>458de3b8-7eac-420b-9ea4-94e9b21e7eaa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dibutuhkan Tandatangan'])[2]/preceding::div[1]</value>
-      <webElementGuid>9a1cff7b-a4ad-4397-96b7-51ac1388764d</webElementGuid>
+      <webElementGuid>5d6abd5b-d6c7-4605-a0bc-532f76fb203f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Penerima'])[1]/preceding::div[3]</value>
-      <webElementGuid>9d535b50-e8e3-495c-ae4c-8b3edd560b04</webElementGuid>
+      <webElementGuid>ddb708c2-9367-4205-85cf-f9bd73d76c93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Format Email salah !']/parent::*</value>
-      <webElementGuid>471ee0ab-b4e2-4890-9474-bd8c171d9817</webElementGuid>
+      <webElementGuid>0ebae6c9-ef1c-4e73-b014-97c50ab39e71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div[3]/div</value>
-      <webElementGuid>abddd216-2819-45f7-b555-3aef1e45ed9b</webElementGuid>
+      <webElementGuid>61d3fa6c-ddae-4b9c-be4e-169bf9a5c8a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'e_email-1' and (text() = 'Format Email salah !' or . = 'Format Email salah !')]</value>
-      <webElementGuid>f169ec4d-4b50-48b9-a6c4-ae71d284e931</webElementGuid>
+      <webElementGuid>31d01e73-d4b8-403f-a909-57abc1864421</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
